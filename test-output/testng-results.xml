@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="66" passed="66">
   <reporter-output>
   </reporter-output>
-  <suite name="AllBrowsers" duration-ms="271785" started-at="2021-08-18T18:47:41 IST" finished-at="2021-08-18T18:52:13 IST">
+  <suite name="AllBrowsers" duration-ms="278871" started-at="2021-08-18T22:42:31 IST" finished-at="2021-08-18T22:47:10 IST">
     <groups>
     </groups>
-    <test name="Chrome Test" duration-ms="78165" started-at="2021-08-18T18:47:41 IST" finished-at="2021-08-18T18:48:59 IST">
+    <test name="Chrome Test" duration-ms="78688" started-at="2021-08-18T22:42:31 IST" finished-at="2021-08-18T22:43:50 IST">
       <class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed]" name="init" is-config="true" duration-ms="4398" started-at="2021-08-18T18:48:49 IST" finished-at="2021-08-18T18:48:53 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed]" name="init" is-config="true" duration-ms="4706" started-at="2021-08-18T22:43:39 IST" finished-at="2021-08-18T22:43:44 IST">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="elementLinkTest()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed]" name="elementLinkTest" duration-ms="5130" started-at="2021-08-18T18:48:53 IST" finished-at="2021-08-18T18:48:58 IST">
+        <test-method status="PASS" signature="elementLinkTest()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed]" name="elementLinkTest" duration-ms="5160" started-at="2021-08-18T22:43:44 IST" finished-at="2021-08-18T22:43:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- elementLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed]" name="tearDown" is-config="true" duration-ms="1164" started-at="2021-08-18T18:48:58 IST" finished-at="2021-08-18T18:48:59 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed]" name="tearDown" is-config="true" duration-ms="688" started-at="2021-08-18T22:43:49 IST" finished-at="2021-08-18T22:43:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_009_ElementalLinkTest -->
       <class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270]" name="init" is-config="true" duration-ms="5461" started-at="2021-08-18T18:48:42 IST" finished-at="2021-08-18T18:48:47 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270]" name="init" is-config="true" duration-ms="4915" started-at="2021-08-18T22:43:33 IST" finished-at="2021-08-18T22:43:38 IST">
           <params>
             <param index="0">
               <value>
@@ -39,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270]" name="deleteTest" duration-ms="646" started-at="2021-08-18T18:48:47 IST" finished-at="2021-08-18T18:48:48 IST">
+        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270]" name="deleteTest" duration-ms="641" started-at="2021-08-18T22:43:38 IST" finished-at="2021-08-18T22:43:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270]" name="tearDown" is-config="true" duration-ms="624" started-at="2021-08-18T18:48:48 IST" finished-at="2021-08-18T18:48:49 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270]" name="tearDown" is-config="true" duration-ms="682" started-at="2021-08-18T22:43:39 IST" finished-at="2021-08-18T22:43:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_008_DeleteClickTest -->
       <class name="com.expleo.heroku.testCases.TC_002_ButtonTestDDT">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="init" is-config="true" duration-ms="5042" started-at="2021-08-18T18:47:48 IST" finished-at="2021-08-18T18:47:53 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="init" is-config="true" duration-ms="4948" started-at="2021-08-18T22:42:39 IST" finished-at="2021-08-18T22:42:44 IST">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="buttonDDT" duration-ms="3563" started-at="2021-08-18T18:47:54 IST" data-provider="Buttondata" finished-at="2021-08-18T18:47:57 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="buttonDDT" duration-ms="3592" started-at="2021-08-18T22:42:45 IST" data-provider="Buttondata" finished-at="2021-08-18T22:42:48 IST">
           <params>
             <param index="0">
               <value>
@@ -71,7 +71,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="buttonDDT" duration-ms="3491" started-at="2021-08-18T18:47:57 IST" data-provider="Buttondata" finished-at="2021-08-18T18:48:01 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="buttonDDT" duration-ms="3496" started-at="2021-08-18T22:42:48 IST" data-provider="Buttondata" finished-at="2021-08-18T22:42:52 IST">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="buttonDDT" duration-ms="3563" started-at="2021-08-18T18:48:01 IST" data-provider="Buttondata" finished-at="2021-08-18T18:48:04 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="buttonDDT" duration-ms="3570" started-at="2021-08-18T22:42:52 IST" data-provider="Buttondata" finished-at="2021-08-18T22:42:55 IST">
           <params>
             <param index="0">
               <value>
@@ -93,13 +93,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="tearDown" is-config="true" duration-ms="699" started-at="2021-08-18T18:48:04 IST" finished-at="2021-08-18T18:48:05 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3]" name="tearDown" is-config="true" duration-ms="748" started-at="2021-08-18T22:42:55 IST" finished-at="2021-08-18T22:42:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_002_ButtonTestDDT -->
-      <class name="com.expleo.heroku.testCases.TC_001_TitleTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9]" name="init" is-config="true" duration-ms="5743" started-at="2021-08-18T18:47:41 IST" finished-at="2021-08-18T18:47:47 IST">
+      <class name="com.expleo.heroku.testCases.TC_006_CanvasTestDDT">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@b3d7190]" name="init" is-config="true" duration-ms="4845" started-at="2021-08-18T22:43:19 IST" finished-at="2021-08-18T22:43:24 IST">
           <params>
             <param index="0">
               <value>
@@ -110,17 +110,67 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9]" name="titleTest" duration-ms="21" started-at="2021-08-18T18:47:47 IST" finished-at="2021-08-18T18:47:47 IST">
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@b3d7190]" name="canvaTest" duration-ms="823" started-at="2021-08-18T22:43:24 IST" data-provider="Buttondata" finished-at="2021-08-18T22:43:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttonblue]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@b3d7190]" name="canvaTest" duration-ms="807" started-at="2021-08-18T22:43:25 IST" data-provider="Buttondata" finished-at="2021-08-18T22:43:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttonred]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@b3d7190]" name="canvaTest" duration-ms="793" started-at="2021-08-18T22:43:25 IST" data-provider="Buttondata" finished-at="2021-08-18T22:43:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttongreen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@b3d7190]" name="tearDown" is-config="true" duration-ms="681" started-at="2021-08-18T22:43:26 IST" finished-at="2021-08-18T22:43:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expleo.heroku.testCases.TC_006_CanvasTestDDT -->
+      <class name="com.expleo.heroku.testCases.TC_001_TitleTest">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9]" name="init" is-config="true" duration-ms="6872" started-at="2021-08-18T22:42:31 IST" finished-at="2021-08-18T22:42:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9]" name="titleTest" duration-ms="15" started-at="2021-08-18T22:42:38 IST" finished-at="2021-08-18T22:42:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9]" name="tearDown" is-config="true" duration-ms="702" started-at="2021-08-18T18:47:47 IST" finished-at="2021-08-18T18:47:48 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9]" name="tearDown" is-config="true" duration-ms="657" started-at="2021-08-18T22:42:38 IST" finished-at="2021-08-18T22:42:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_001_TitleTest -->
       <class name="com.expleo.heroku.testCases.TC_003_TableTestDDT">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="init" is-config="true" duration-ms="5402" started-at="2021-08-18T18:48:05 IST" finished-at="2021-08-18T18:48:10 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="init" is-config="true" duration-ms="5901" started-at="2021-08-18T22:42:56 IST" finished-at="2021-08-18T22:43:02 IST">
           <params>
             <param index="0">
               <value>
@@ -131,7 +181,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="407" started-at="2021-08-18T18:48:12 IST" data-provider="TableData" finished-at="2021-08-18T18:48:12 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="368" started-at="2021-08-18T22:43:03 IST" data-provider="TableData" finished-at="2021-08-18T22:43:04 IST">
           <params>
             <param index="0">
               <value>
@@ -177,7 +227,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="383" started-at="2021-08-18T18:48:12 IST" data-provider="TableData" finished-at="2021-08-18T18:48:13 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="357" started-at="2021-08-18T22:43:04 IST" data-provider="TableData" finished-at="2021-08-18T22:43:04 IST">
           <params>
             <param index="0">
               <value>
@@ -223,7 +273,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="359" started-at="2021-08-18T18:48:13 IST" data-provider="TableData" finished-at="2021-08-18T18:48:13 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="359" started-at="2021-08-18T22:43:04 IST" data-provider="TableData" finished-at="2021-08-18T22:43:04 IST">
           <params>
             <param index="0">
               <value>
@@ -269,7 +319,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="375" started-at="2021-08-18T18:48:13 IST" data-provider="TableData" finished-at="2021-08-18T18:48:14 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="376" started-at="2021-08-18T22:43:04 IST" data-provider="TableData" finished-at="2021-08-18T22:43:05 IST">
           <params>
             <param index="0">
               <value>
@@ -315,7 +365,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="352" started-at="2021-08-18T18:48:14 IST" data-provider="TableData" finished-at="2021-08-18T18:48:14 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="361" started-at="2021-08-18T22:43:05 IST" data-provider="TableData" finished-at="2021-08-18T22:43:05 IST">
           <params>
             <param index="0">
               <value>
@@ -361,7 +411,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="374" started-at="2021-08-18T18:48:14 IST" data-provider="TableData" finished-at="2021-08-18T18:48:14 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="347" started-at="2021-08-18T22:43:05 IST" data-provider="TableData" finished-at="2021-08-18T22:43:05 IST">
           <params>
             <param index="0">
               <value>
@@ -407,7 +457,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="377" started-at="2021-08-18T18:48:14 IST" data-provider="TableData" finished-at="2021-08-18T18:48:15 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="349" started-at="2021-08-18T22:43:05 IST" data-provider="TableData" finished-at="2021-08-18T22:43:06 IST">
           <params>
             <param index="0">
               <value>
@@ -453,7 +503,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="358" started-at="2021-08-18T18:48:15 IST" data-provider="TableData" finished-at="2021-08-18T18:48:15 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="380" started-at="2021-08-18T22:43:06 IST" data-provider="TableData" finished-at="2021-08-18T22:43:06 IST">
           <params>
             <param index="0">
               <value>
@@ -499,7 +549,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="325" started-at="2021-08-18T18:48:15 IST" data-provider="TableData" finished-at="2021-08-18T18:48:15 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="343" started-at="2021-08-18T22:43:06 IST" data-provider="TableData" finished-at="2021-08-18T22:43:06 IST">
           <params>
             <param index="0">
               <value>
@@ -545,7 +595,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="340" started-at="2021-08-18T18:48:15 IST" data-provider="TableData" finished-at="2021-08-18T18:48:16 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="TableDDT" duration-ms="308" started-at="2021-08-18T22:43:06 IST" data-provider="TableData" finished-at="2021-08-18T22:43:07 IST">
           <params>
             <param index="0">
               <value>
@@ -591,13 +641,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="tearDown" is-config="true" duration-ms="654" started-at="2021-08-18T18:48:16 IST" finished-at="2021-08-18T18:48:16 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a]" name="tearDown" is-config="true" duration-ms="687" started-at="2021-08-18T22:43:07 IST" finished-at="2021-08-18T22:43:07 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_003_TableTestDDT -->
       <class name="com.expleo.heroku.testCases.TC_004_HeaderTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa]" name="init" is-config="true" duration-ms="4921" started-at="2021-08-18T18:48:16 IST" finished-at="2021-08-18T18:48:21 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa]" name="init" is-config="true" duration-ms="5101" started-at="2021-08-18T22:43:07 IST" finished-at="2021-08-18T22:43:13 IST">
           <params>
             <param index="0">
               <value>
@@ -608,17 +658,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="headTest()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa]" name="headTest" duration-ms="35" started-at="2021-08-18T18:48:21 IST" finished-at="2021-08-18T18:48:21 IST">
+        <test-method status="PASS" signature="headTest()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa]" name="headTest" duration-ms="40" started-at="2021-08-18T22:43:13 IST" finished-at="2021-08-18T22:43:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- headTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa]" name="tearDown" is-config="true" duration-ms="650" started-at="2021-08-18T18:48:21 IST" finished-at="2021-08-18T18:48:22 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa]" name="tearDown" is-config="true" duration-ms="685" started-at="2021-08-18T22:43:13 IST" finished-at="2021-08-18T22:43:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_004_HeaderTest -->
       <class name="com.expleo.heroku.testCases.TC_007_EditClickTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9]" name="init" is-config="true" duration-ms="4710" started-at="2021-08-18T18:48:36 IST" finished-at="2021-08-18T18:48:41 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9]" name="init" is-config="true" duration-ms="4942" started-at="2021-08-18T22:43:27 IST" finished-at="2021-08-18T22:43:32 IST">
           <params>
             <param index="0">
               <value>
@@ -629,67 +679,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="editTest()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9]" name="editTest" duration-ms="671" started-at="2021-08-18T18:48:41 IST" finished-at="2021-08-18T18:48:41 IST">
+        <test-method status="PASS" signature="editTest()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9]" name="editTest" duration-ms="641" started-at="2021-08-18T22:43:32 IST" finished-at="2021-08-18T22:43:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9]" name="tearDown" is-config="true" duration-ms="626" started-at="2021-08-18T18:48:41 IST" finished-at="2021-08-18T18:48:42 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9]" name="tearDown" is-config="true" duration-ms="709" started-at="2021-08-18T22:43:32 IST" finished-at="2021-08-18T22:43:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_007_EditClickTest -->
-      <class name="com.expleo.heroku.testCases.TC_006_CanvasTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190]" name="init" is-config="true" duration-ms="4970" started-at="2021-08-18T18:48:28 IST" finished-at="2021-08-18T18:48:33 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- init -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190]" name="canvaTest" duration-ms="816" started-at="2021-08-18T18:48:33 IST" data-provider="Buttondata" finished-at="2021-08-18T18:48:34 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttonblue]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190]" name="canvaTest" duration-ms="805" started-at="2021-08-18T18:48:34 IST" data-provider="Buttondata" finished-at="2021-08-18T18:48:34 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttonred]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190]" name="canvaTest" duration-ms="818" started-at="2021-08-18T18:48:34 IST" data-provider="Buttondata" finished-at="2021-08-18T18:48:35 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttongreen]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190]" name="tearDown" is-config="true" duration-ms="680" started-at="2021-08-18T18:48:35 IST" finished-at="2021-08-18T18:48:36 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.expleo.heroku.testCases.TC_006_CanvasTest -->
       <class name="com.expleo.heroku.testCases.TC_005_ParaTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17211155]" name="init" is-config="true" duration-ms="5065" started-at="2021-08-18T18:48:22 IST" finished-at="2021-08-18T18:48:27 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17211155]" name="init" is-config="true" duration-ms="4823" started-at="2021-08-18T22:43:13 IST" finished-at="2021-08-18T22:43:18 IST">
           <params>
             <param index="0">
               <value>
@@ -700,19 +700,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="paraCheck()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17211155]" name="paraCheck" duration-ms="36" started-at="2021-08-18T18:48:27 IST" finished-at="2021-08-18T18:48:27 IST">
+        <test-method status="PASS" signature="paraCheck()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17211155]" name="paraCheck" duration-ms="34" started-at="2021-08-18T22:43:18 IST" finished-at="2021-08-18T22:43:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- paraCheck -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17211155]" name="tearDown" is-config="true" duration-ms="671" started-at="2021-08-18T18:48:27 IST" finished-at="2021-08-18T18:48:28 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17211155]" name="tearDown" is-config="true" duration-ms="664" started-at="2021-08-18T22:43:18 IST" finished-at="2021-08-18T22:43:19 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_005_ParaTest -->
     </test> <!-- Chrome Test -->
-    <test name="Firefox Test" duration-ms="116860" started-at="2021-08-18T18:49:00 IST" finished-at="2021-08-18T18:50:57 IST">
+    <test name="Firefox Test" duration-ms="116730" started-at="2021-08-18T22:43:50 IST" finished-at="2021-08-18T22:45:47 IST">
       <class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@1d7acb34]" name="init" is-config="true" duration-ms="8063" started-at="2021-08-18T18:50:42 IST" finished-at="2021-08-18T18:50:50 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@1d7acb34]" name="init" is-config="true" duration-ms="8122" started-at="2021-08-18T22:45:33 IST" finished-at="2021-08-18T22:45:41 IST">
           <params>
             <param index="0">
               <value>
@@ -723,17 +723,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="elementLinkTest()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@1d7acb34]" name="elementLinkTest" duration-ms="5127" started-at="2021-08-18T18:50:50 IST" finished-at="2021-08-18T18:50:56 IST">
+        <test-method status="PASS" signature="elementLinkTest()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@1d7acb34]" name="elementLinkTest" duration-ms="5158" started-at="2021-08-18T22:45:41 IST" finished-at="2021-08-18T22:45:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- elementLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@1d7acb34]" name="tearDown" is-config="true" duration-ms="1035" started-at="2021-08-18T18:50:56 IST" finished-at="2021-08-18T18:50:57 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@1d7acb34]" name="tearDown" is-config="true" duration-ms="1132" started-at="2021-08-18T22:45:46 IST" finished-at="2021-08-18T22:45:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_009_ElementalLinkTest -->
       <class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@5f71c76a]" name="init" is-config="true" duration-ms="8037" started-at="2021-08-18T18:50:31 IST" finished-at="2021-08-18T18:50:39 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@5f71c76a]" name="init" is-config="true" duration-ms="8658" started-at="2021-08-18T22:45:21 IST" finished-at="2021-08-18T22:45:29 IST">
           <params>
             <param index="0">
               <value>
@@ -744,17 +744,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@5f71c76a]" name="deleteTest" duration-ms="2401" started-at="2021-08-18T18:50:39 IST" finished-at="2021-08-18T18:50:42 IST">
+        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@5f71c76a]" name="deleteTest" duration-ms="2558" started-at="2021-08-18T22:45:29 IST" finished-at="2021-08-18T22:45:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@5f71c76a]" name="tearDown" is-config="true" duration-ms="831" started-at="2021-08-18T18:50:42 IST" finished-at="2021-08-18T18:50:42 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@5f71c76a]" name="tearDown" is-config="true" duration-ms="865" started-at="2021-08-18T22:45:32 IST" finished-at="2021-08-18T22:45:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_008_DeleteClickTest -->
-      <class name="com.expleo.heroku.testCases.TC_002_ButtonTestDDT">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="init" is-config="true" duration-ms="8047" started-at="2021-08-18T18:49:10 IST" finished-at="2021-08-18T18:49:18 IST">
+      <class name="com.expleo.heroku.testCases.TC_006_CanvasTestDDT">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@69379752]" name="init" is-config="true" duration-ms="8683" started-at="2021-08-18T22:44:56 IST" finished-at="2021-08-18T22:45:05 IST">
           <params>
             <param index="0">
               <value>
@@ -765,7 +765,57 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="buttonDDT" duration-ms="3579" started-at="2021-08-18T18:49:18 IST" data-provider="Buttondata" finished-at="2021-08-18T18:49:21 IST">
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@69379752]" name="canvaTest" duration-ms="973" started-at="2021-08-18T22:45:05 IST" data-provider="Buttondata" finished-at="2021-08-18T22:45:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttonblue]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@69379752]" name="canvaTest" duration-ms="894" started-at="2021-08-18T22:45:06 IST" data-provider="Buttondata" finished-at="2021-08-18T22:45:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttonred]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@69379752]" name="canvaTest" duration-ms="922" started-at="2021-08-18T22:45:07 IST" data-provider="Buttondata" finished-at="2021-08-18T22:45:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttongreen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@69379752]" name="tearDown" is-config="true" duration-ms="893" started-at="2021-08-18T22:45:08 IST" finished-at="2021-08-18T22:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expleo.heroku.testCases.TC_006_CanvasTestDDT -->
+      <class name="com.expleo.heroku.testCases.TC_002_ButtonTestDDT">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="init" is-config="true" duration-ms="9433" started-at="2021-08-18T22:44:01 IST" finished-at="2021-08-18T22:44:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="buttonDDT" duration-ms="3567" started-at="2021-08-18T22:44:11 IST" data-provider="Buttondata" finished-at="2021-08-18T22:44:14 IST">
           <params>
             <param index="0">
               <value>
@@ -776,7 +826,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="buttonDDT" duration-ms="3530" started-at="2021-08-18T18:49:21 IST" data-provider="Buttondata" finished-at="2021-08-18T18:49:25 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="buttonDDT" duration-ms="3614" started-at="2021-08-18T22:44:14 IST" data-provider="Buttondata" finished-at="2021-08-18T22:44:18 IST">
           <params>
             <param index="0">
               <value>
@@ -787,7 +837,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="buttonDDT" duration-ms="3570" started-at="2021-08-18T18:49:25 IST" data-provider="Buttondata" finished-at="2021-08-18T18:49:28 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="buttonDDT" duration-ms="3626" started-at="2021-08-18T22:44:18 IST" data-provider="Buttondata" finished-at="2021-08-18T22:44:21 IST">
           <params>
             <param index="0">
               <value>
@@ -798,13 +848,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="tearDown" is-config="true" duration-ms="829" started-at="2021-08-18T18:49:28 IST" finished-at="2021-08-18T18:49:29 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@44f75083]" name="tearDown" is-config="true" duration-ms="914" started-at="2021-08-18T22:44:21 IST" finished-at="2021-08-18T22:44:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_002_ButtonTestDDT -->
       <class name="com.expleo.heroku.testCases.TC_001_TitleTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@6366ebe0]" name="init" is-config="true" duration-ms="8676" started-at="2021-08-18T18:49:00 IST" finished-at="2021-08-18T18:49:08 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@6366ebe0]" name="init" is-config="true" duration-ms="9389" started-at="2021-08-18T22:43:50 IST" finished-at="2021-08-18T22:44:00 IST">
           <params>
             <param index="0">
               <value>
@@ -815,17 +865,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@6366ebe0]" name="titleTest" duration-ms="24" started-at="2021-08-18T18:49:08 IST" finished-at="2021-08-18T18:49:08 IST">
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@6366ebe0]" name="titleTest" duration-ms="6" started-at="2021-08-18T22:44:00 IST" finished-at="2021-08-18T22:44:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="1171" started-at="2021-08-18T18:49:08 IST" finished-at="2021-08-18T18:49:10 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="1448" started-at="2021-08-18T22:44:00 IST" finished-at="2021-08-18T22:44:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_001_TitleTest -->
       <class name="com.expleo.heroku.testCases.TC_004_HeaderTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@43d7741f]" name="init" is-config="true" duration-ms="9245" started-at="2021-08-18T18:49:44 IST" finished-at="2021-08-18T18:49:53 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@43d7741f]" name="init" is-config="true" duration-ms="8697" started-at="2021-08-18T22:44:37 IST" finished-at="2021-08-18T22:44:45 IST">
           <params>
             <param index="0">
               <value>
@@ -836,17 +886,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="headTest()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@43d7741f]" name="headTest" duration-ms="40" started-at="2021-08-18T18:49:53 IST" finished-at="2021-08-18T18:49:53 IST">
+        <test-method status="PASS" signature="headTest()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@43d7741f]" name="headTest" duration-ms="53" started-at="2021-08-18T22:44:45 IST" finished-at="2021-08-18T22:44:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- headTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@43d7741f]" name="tearDown" is-config="true" duration-ms="1219" started-at="2021-08-18T18:49:53 IST" finished-at="2021-08-18T18:49:54 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@43d7741f]" name="tearDown" is-config="true" duration-ms="1120" started-at="2021-08-18T22:44:45 IST" finished-at="2021-08-18T22:44:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_004_HeaderTest -->
       <class name="com.expleo.heroku.testCases.TC_003_TableTestDDT">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="init" is-config="true" duration-ms="10795" started-at="2021-08-18T18:49:29 IST" finished-at="2021-08-18T18:49:40 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="init" is-config="true" duration-ms="9449" started-at="2021-08-18T22:44:22 IST" finished-at="2021-08-18T22:44:32 IST">
           <params>
             <param index="0">
               <value>
@@ -857,7 +907,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="217" started-at="2021-08-18T18:49:41 IST" data-provider="TableData" finished-at="2021-08-18T18:49:41 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="318" started-at="2021-08-18T22:44:33 IST" data-provider="TableData" finished-at="2021-08-18T22:44:33 IST">
           <params>
             <param index="0">
               <value>
@@ -903,7 +953,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="185" started-at="2021-08-18T18:49:41 IST" data-provider="TableData" finished-at="2021-08-18T18:49:41 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="297" started-at="2021-08-18T22:44:33 IST" data-provider="TableData" finished-at="2021-08-18T22:44:34 IST">
           <params>
             <param index="0">
               <value>
@@ -949,7 +999,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="187" started-at="2021-08-18T18:49:41 IST" data-provider="TableData" finished-at="2021-08-18T18:49:42 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="212" started-at="2021-08-18T22:44:34 IST" data-provider="TableData" finished-at="2021-08-18T22:44:34 IST">
           <params>
             <param index="0">
               <value>
@@ -995,7 +1045,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="187" started-at="2021-08-18T18:49:42 IST" data-provider="TableData" finished-at="2021-08-18T18:49:42 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="204" started-at="2021-08-18T22:44:34 IST" data-provider="TableData" finished-at="2021-08-18T22:44:34 IST">
           <params>
             <param index="0">
               <value>
@@ -1041,7 +1091,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="187" started-at="2021-08-18T18:49:42 IST" data-provider="TableData" finished-at="2021-08-18T18:49:42 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="218" started-at="2021-08-18T22:44:34 IST" data-provider="TableData" finished-at="2021-08-18T22:44:34 IST">
           <params>
             <param index="0">
               <value>
@@ -1087,7 +1137,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="188" started-at="2021-08-18T18:49:42 IST" data-provider="TableData" finished-at="2021-08-18T18:49:42 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="294" started-at="2021-08-18T22:44:34 IST" data-provider="TableData" finished-at="2021-08-18T22:44:35 IST">
           <params>
             <param index="0">
               <value>
@@ -1133,7 +1183,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="181" started-at="2021-08-18T18:49:42 IST" data-provider="TableData" finished-at="2021-08-18T18:49:42 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="270" started-at="2021-08-18T22:44:35 IST" data-provider="TableData" finished-at="2021-08-18T22:44:35 IST">
           <params>
             <param index="0">
               <value>
@@ -1179,7 +1229,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="189" started-at="2021-08-18T18:49:42 IST" data-provider="TableData" finished-at="2021-08-18T18:49:43 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="232" started-at="2021-08-18T22:44:35 IST" data-provider="TableData" finished-at="2021-08-18T22:44:35 IST">
           <params>
             <param index="0">
               <value>
@@ -1225,7 +1275,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="183" started-at="2021-08-18T18:49:43 IST" data-provider="TableData" finished-at="2021-08-18T18:49:43 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="297" started-at="2021-08-18T22:44:35 IST" data-provider="TableData" finished-at="2021-08-18T22:44:35 IST">
           <params>
             <param index="0">
               <value>
@@ -1271,7 +1321,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="186" started-at="2021-08-18T18:49:43 IST" data-provider="TableData" finished-at="2021-08-18T18:49:43 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="TableDDT" duration-ms="257" started-at="2021-08-18T22:44:35 IST" data-provider="TableData" finished-at="2021-08-18T22:44:36 IST">
           <params>
             <param index="0">
               <value>
@@ -1317,13 +1367,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="tearDown" is-config="true" duration-ms="787" started-at="2021-08-18T18:49:43 IST" finished-at="2021-08-18T18:49:44 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@2698dc7]" name="tearDown" is-config="true" duration-ms="945" started-at="2021-08-18T22:44:36 IST" finished-at="2021-08-18T22:44:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_003_TableTestDDT -->
       <class name="com.expleo.heroku.testCases.TC_007_EditClickTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@27fe3806]" name="init" is-config="true" duration-ms="8114" started-at="2021-08-18T18:50:20 IST" finished-at="2021-08-18T18:50:28 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@27fe3806]" name="init" is-config="true" duration-ms="8261" started-at="2021-08-18T22:45:09 IST" finished-at="2021-08-18T22:45:17 IST">
           <params>
             <param index="0">
               <value>
@@ -1334,67 +1384,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="editTest()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@27fe3806]" name="editTest" duration-ms="2375" started-at="2021-08-18T18:50:28 IST" finished-at="2021-08-18T18:50:30 IST">
+        <test-method status="PASS" signature="editTest()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@27fe3806]" name="editTest" duration-ms="2499" started-at="2021-08-18T22:45:17 IST" finished-at="2021-08-18T22:45:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@27fe3806]" name="tearDown" is-config="true" duration-ms="823" started-at="2021-08-18T18:50:30 IST" finished-at="2021-08-18T18:50:31 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@27fe3806]" name="tearDown" is-config="true" duration-ms="904" started-at="2021-08-18T22:45:20 IST" finished-at="2021-08-18T22:45:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_007_EditClickTest -->
-      <class name="com.expleo.heroku.testCases.TC_006_CanvasTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@69379752]" name="init" is-config="true" duration-ms="8396" started-at="2021-08-18T18:50:08 IST" finished-at="2021-08-18T18:50:16 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- init -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@69379752]" name="canvaTest" duration-ms="832" started-at="2021-08-18T18:50:16 IST" data-provider="Buttondata" finished-at="2021-08-18T18:50:17 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttonblue]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@69379752]" name="canvaTest" duration-ms="805" started-at="2021-08-18T18:50:17 IST" data-provider="Buttondata" finished-at="2021-08-18T18:50:18 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttonred]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@69379752]" name="canvaTest" duration-ms="837" started-at="2021-08-18T18:50:18 IST" data-provider="Buttondata" finished-at="2021-08-18T18:50:19 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttongreen]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@69379752]" name="tearDown" is-config="true" duration-ms="814" started-at="2021-08-18T18:50:19 IST" finished-at="2021-08-18T18:50:20 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.expleo.heroku.testCases.TC_006_CanvasTest -->
       <class name="com.expleo.heroku.testCases.TC_005_ParaTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17baae6e]" name="init" is-config="true" duration-ms="12742" started-at="2021-08-18T18:49:54 IST" finished-at="2021-08-18T18:50:07 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17baae6e]" name="init" is-config="true" duration-ms="8665" started-at="2021-08-18T22:44:46 IST" finished-at="2021-08-18T22:44:55 IST">
           <params>
             <param index="0">
               <value>
@@ -1405,19 +1405,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="paraCheck()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17baae6e]" name="paraCheck" duration-ms="53" started-at="2021-08-18T18:50:07 IST" finished-at="2021-08-18T18:50:07 IST">
+        <test-method status="PASS" signature="paraCheck()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17baae6e]" name="paraCheck" duration-ms="54" started-at="2021-08-18T22:44:55 IST" finished-at="2021-08-18T22:44:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- paraCheck -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17baae6e]" name="tearDown" is-config="true" duration-ms="1049" started-at="2021-08-18T18:50:07 IST" finished-at="2021-08-18T18:50:08 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@17baae6e]" name="tearDown" is-config="true" duration-ms="1329" started-at="2021-08-18T22:44:55 IST" finished-at="2021-08-18T22:44:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_005_ParaTest -->
     </test> <!-- Firefox Test -->
-    <test name="Edge Test" duration-ms="76331" started-at="2021-08-18T18:50:57 IST" finished-at="2021-08-18T18:52:13 IST">
+    <test name="Edge Test" duration-ms="82934" started-at="2021-08-18T22:45:47 IST" finished-at="2021-08-18T22:47:10 IST">
       <class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@2473b9ce]" name="init" is-config="true" duration-ms="4924" started-at="2021-08-18T18:52:02 IST" finished-at="2021-08-18T18:52:07 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@2473b9ce]" name="init" is-config="true" duration-ms="6113" started-at="2021-08-18T22:46:58 IST" finished-at="2021-08-18T22:47:04 IST">
           <params>
             <param index="0">
               <value>
@@ -1428,17 +1428,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="elementLinkTest()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@2473b9ce]" name="elementLinkTest" duration-ms="5146" started-at="2021-08-18T18:52:07 IST" finished-at="2021-08-18T18:52:12 IST">
+        <test-method status="PASS" signature="elementLinkTest()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@2473b9ce]" name="elementLinkTest" duration-ms="5202" started-at="2021-08-18T22:47:04 IST" finished-at="2021-08-18T22:47:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- elementLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@2473b9ce]" name="tearDown" is-config="true" duration-ms="717" started-at="2021-08-18T18:52:12 IST" finished-at="2021-08-18T18:52:13 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_009_ElementalLinkTest@2473b9ce]" name="tearDown" is-config="true" duration-ms="744" started-at="2021-08-18T22:47:09 IST" finished-at="2021-08-18T22:47:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_009_ElementalLinkTest -->
       <class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@50de0926]" name="init" is-config="true" duration-ms="4835" started-at="2021-08-18T18:51:56 IST" finished-at="2021-08-18T18:52:01 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@50de0926]" name="init" is-config="true" duration-ms="5192" started-at="2021-08-18T22:46:51 IST" finished-at="2021-08-18T22:46:56 IST">
           <params>
             <param index="0">
               <value>
@@ -1449,17 +1449,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@50de0926]" name="deleteTest" duration-ms="637" started-at="2021-08-18T18:52:01 IST" finished-at="2021-08-18T18:52:02 IST">
+        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@50de0926]" name="deleteTest" duration-ms="1168" started-at="2021-08-18T22:46:56 IST" finished-at="2021-08-18T22:46:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@50de0926]" name="tearDown" is-config="true" duration-ms="658" started-at="2021-08-18T18:52:02 IST" finished-at="2021-08-18T18:52:02 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_008_DeleteClickTest@50de0926]" name="tearDown" is-config="true" duration-ms="740" started-at="2021-08-18T22:46:57 IST" finished-at="2021-08-18T22:46:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_008_DeleteClickTest -->
       <class name="com.expleo.heroku.testCases.TC_002_ButtonTestDDT">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="init" is-config="true" duration-ms="4879" started-at="2021-08-18T18:51:03 IST" finished-at="2021-08-18T18:51:08 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="init" is-config="true" duration-ms="5411" started-at="2021-08-18T22:45:54 IST" finished-at="2021-08-18T22:45:59 IST">
           <params>
             <param index="0">
               <value>
@@ -1470,7 +1470,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="buttonDDT" duration-ms="3524" started-at="2021-08-18T18:51:08 IST" data-provider="Buttondata" finished-at="2021-08-18T18:51:11 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="buttonDDT" duration-ms="3686" started-at="2021-08-18T22:45:59 IST" data-provider="Buttondata" finished-at="2021-08-18T22:46:03 IST">
           <params>
             <param index="0">
               <value>
@@ -1481,7 +1481,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="buttonDDT" duration-ms="3543" started-at="2021-08-18T18:51:11 IST" data-provider="Buttondata" finished-at="2021-08-18T18:51:15 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="buttonDDT" duration-ms="3517" started-at="2021-08-18T22:46:03 IST" data-provider="Buttondata" finished-at="2021-08-18T22:46:06 IST">
           <params>
             <param index="0">
               <value>
@@ -1492,7 +1492,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="buttonDDT" duration-ms="3558" started-at="2021-08-18T18:51:15 IST" data-provider="Buttondata" finished-at="2021-08-18T18:51:18 IST">
+        <test-method status="PASS" signature="buttonDDT(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="buttonDDT" duration-ms="3562" started-at="2021-08-18T22:46:06 IST" data-provider="Buttondata" finished-at="2021-08-18T22:46:10 IST">
           <params>
             <param index="0">
               <value>
@@ -1503,13 +1503,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="tearDown" is-config="true" duration-ms="993" started-at="2021-08-18T18:51:18 IST" finished-at="2021-08-18T18:51:19 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_002_ButtonTestDDT@133e16fd]" name="tearDown" is-config="true" duration-ms="928" started-at="2021-08-18T22:46:10 IST" finished-at="2021-08-18T22:46:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_002_ButtonTestDDT -->
-      <class name="com.expleo.heroku.testCases.TC_001_TitleTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@5e57643e]" name="init" is-config="true" duration-ms="5392" started-at="2021-08-18T18:50:57 IST" finished-at="2021-08-18T18:51:02 IST">
+      <class name="com.expleo.heroku.testCases.TC_006_CanvasTestDDT">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@1cab0bfb]" name="init" is-config="true" duration-ms="4820" started-at="2021-08-18T22:46:35 IST" finished-at="2021-08-18T22:46:40 IST">
           <params>
             <param index="0">
               <value>
@@ -1520,17 +1520,67 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@5e57643e]" name="titleTest" duration-ms="6" started-at="2021-08-18T18:51:02 IST" finished-at="2021-08-18T18:51:02 IST">
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@1cab0bfb]" name="canvaTest" duration-ms="927" started-at="2021-08-18T22:46:40 IST" data-provider="Buttondata" finished-at="2021-08-18T22:46:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttonblue]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@1cab0bfb]" name="canvaTest" duration-ms="879" started-at="2021-08-18T22:46:41 IST" data-provider="Buttondata" finished-at="2021-08-18T22:46:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttonred]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@1cab0bfb]" name="canvaTest" duration-ms="899" started-at="2021-08-18T22:46:42 IST" data-provider="Buttondata" finished-at="2021-08-18T22:46:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buttongreen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canvaTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTestDDT@1cab0bfb]" name="tearDown" is-config="true" duration-ms="729" started-at="2021-08-18T22:46:43 IST" finished-at="2021-08-18T22:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expleo.heroku.testCases.TC_006_CanvasTestDDT -->
+      <class name="com.expleo.heroku.testCases.TC_001_TitleTest">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@5e57643e]" name="init" is-config="true" duration-ms="5819" started-at="2021-08-18T22:45:47 IST" finished-at="2021-08-18T22:45:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@5e57643e]" name="titleTest" duration-ms="13" started-at="2021-08-18T22:45:53 IST" finished-at="2021-08-18T22:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@5e57643e]" name="tearDown" is-config="true" duration-ms="637" started-at="2021-08-18T18:51:02 IST" finished-at="2021-08-18T18:51:03 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_001_TitleTest@5e57643e]" name="tearDown" is-config="true" duration-ms="687" started-at="2021-08-18T22:45:53 IST" finished-at="2021-08-18T22:45:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_001_TitleTest -->
       <class name="com.expleo.heroku.testCases.TC_004_HeaderTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@1ad282e0]" name="init" is-config="true" duration-ms="5215" started-at="2021-08-18T18:51:29 IST" finished-at="2021-08-18T18:51:34 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@1ad282e0]" name="init" is-config="true" duration-ms="5459" started-at="2021-08-18T22:46:23 IST" finished-at="2021-08-18T22:46:28 IST">
           <params>
             <param index="0">
               <value>
@@ -1541,17 +1591,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="headTest()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@1ad282e0]" name="headTest" duration-ms="42" started-at="2021-08-18T18:51:34 IST" finished-at="2021-08-18T18:51:34 IST">
+        <test-method status="PASS" signature="headTest()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@1ad282e0]" name="headTest" duration-ms="41" started-at="2021-08-18T22:46:28 IST" finished-at="2021-08-18T22:46:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- headTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@1ad282e0]" name="tearDown" is-config="true" duration-ms="629" started-at="2021-08-18T18:51:34 IST" finished-at="2021-08-18T18:51:34 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_004_HeaderTest@1ad282e0]" name="tearDown" is-config="true" duration-ms="742" started-at="2021-08-18T22:46:28 IST" finished-at="2021-08-18T22:46:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_004_HeaderTest -->
       <class name="com.expleo.heroku.testCases.TC_003_TableTestDDT">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="init" is-config="true" duration-ms="4773" started-at="2021-08-18T18:51:19 IST" finished-at="2021-08-18T18:51:24 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="init" is-config="true" duration-ms="5923" started-at="2021-08-18T22:46:11 IST" finished-at="2021-08-18T22:46:17 IST">
           <params>
             <param index="0">
               <value>
@@ -1562,7 +1612,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="302" started-at="2021-08-18T18:51:25 IST" data-provider="TableData" finished-at="2021-08-18T18:51:25 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="393" started-at="2021-08-18T22:46:18 IST" data-provider="TableData" finished-at="2021-08-18T22:46:18 IST">
           <params>
             <param index="0">
               <value>
@@ -1608,7 +1658,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="284" started-at="2021-08-18T18:51:25 IST" data-provider="TableData" finished-at="2021-08-18T18:51:25 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="479" started-at="2021-08-18T22:46:18 IST" data-provider="TableData" finished-at="2021-08-18T22:46:18 IST">
           <params>
             <param index="0">
               <value>
@@ -1654,7 +1704,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="307" started-at="2021-08-18T18:51:25 IST" data-provider="TableData" finished-at="2021-08-18T18:51:26 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="499" started-at="2021-08-18T22:46:18 IST" data-provider="TableData" finished-at="2021-08-18T22:46:19 IST">
           <params>
             <param index="0">
               <value>
@@ -1700,7 +1750,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="358" started-at="2021-08-18T18:51:26 IST" data-provider="TableData" finished-at="2021-08-18T18:51:26 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="488" started-at="2021-08-18T22:46:19 IST" data-provider="TableData" finished-at="2021-08-18T22:46:19 IST">
           <params>
             <param index="0">
               <value>
@@ -1746,7 +1796,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="301" started-at="2021-08-18T18:51:26 IST" data-provider="TableData" finished-at="2021-08-18T18:51:26 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="542" started-at="2021-08-18T22:46:19 IST" data-provider="TableData" finished-at="2021-08-18T22:46:20 IST">
           <params>
             <param index="0">
               <value>
@@ -1792,7 +1842,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="394" started-at="2021-08-18T18:51:26 IST" data-provider="TableData" finished-at="2021-08-18T18:51:27 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="392" started-at="2021-08-18T22:46:20 IST" data-provider="TableData" finished-at="2021-08-18T22:46:20 IST">
           <params>
             <param index="0">
               <value>
@@ -1838,7 +1888,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="287" started-at="2021-08-18T18:51:27 IST" data-provider="TableData" finished-at="2021-08-18T18:51:27 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="417" started-at="2021-08-18T22:46:20 IST" data-provider="TableData" finished-at="2021-08-18T22:46:21 IST">
           <params>
             <param index="0">
               <value>
@@ -1884,7 +1934,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="284" started-at="2021-08-18T18:51:27 IST" data-provider="TableData" finished-at="2021-08-18T18:51:27 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="504" started-at="2021-08-18T22:46:21 IST" data-provider="TableData" finished-at="2021-08-18T22:46:21 IST">
           <params>
             <param index="0">
               <value>
@@ -1930,7 +1980,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="298" started-at="2021-08-18T18:51:27 IST" data-provider="TableData" finished-at="2021-08-18T18:51:28 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="415" started-at="2021-08-18T22:46:21 IST" data-provider="TableData" finished-at="2021-08-18T22:46:22 IST">
           <params>
             <param index="0">
               <value>
@@ -1976,7 +2026,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="310" started-at="2021-08-18T18:51:28 IST" data-provider="TableData" finished-at="2021-08-18T18:51:28 IST">
+        <test-method status="PASS" signature="TableDDT(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="TableDDT" duration-ms="340" started-at="2021-08-18T22:46:22 IST" data-provider="TableData" finished-at="2021-08-18T22:46:22 IST">
           <params>
             <param index="0">
               <value>
@@ -2022,13 +2072,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TableDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="tearDown" is-config="true" duration-ms="668" started-at="2021-08-18T18:51:28 IST" finished-at="2021-08-18T18:51:29 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_003_TableTestDDT@51b279c9]" name="tearDown" is-config="true" duration-ms="742" started-at="2021-08-18T22:46:22 IST" finished-at="2021-08-18T22:46:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_003_TableTestDDT -->
       <class name="com.expleo.heroku.testCases.TC_007_EditClickTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5e955596]" name="init" is-config="true" duration-ms="5811" started-at="2021-08-18T18:51:49 IST" finished-at="2021-08-18T18:51:55 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5e955596]" name="init" is-config="true" duration-ms="5401" started-at="2021-08-18T22:46:44 IST" finished-at="2021-08-18T22:46:49 IST">
           <params>
             <param index="0">
               <value>
@@ -2039,67 +2089,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="editTest()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5e955596]" name="editTest" duration-ms="700" started-at="2021-08-18T18:51:55 IST" finished-at="2021-08-18T18:51:55 IST">
+        <test-method status="PASS" signature="editTest()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5e955596]" name="editTest" duration-ms="1156" started-at="2021-08-18T22:46:49 IST" finished-at="2021-08-18T22:46:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5e955596]" name="tearDown" is-config="true" duration-ms="656" started-at="2021-08-18T18:51:55 IST" finished-at="2021-08-18T18:51:56 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_007_EditClickTest@5e955596]" name="tearDown" is-config="true" duration-ms="765" started-at="2021-08-18T22:46:50 IST" finished-at="2021-08-18T22:46:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expleo.heroku.testCases.TC_007_EditClickTest -->
-      <class name="com.expleo.heroku.testCases.TC_006_CanvasTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@1cab0bfb]" name="init" is-config="true" duration-ms="5785" started-at="2021-08-18T18:51:40 IST" finished-at="2021-08-18T18:51:46 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- init -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@1cab0bfb]" name="canvaTest" duration-ms="821" started-at="2021-08-18T18:51:46 IST" data-provider="Buttondata" finished-at="2021-08-18T18:51:47 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttonblue]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@1cab0bfb]" name="canvaTest" duration-ms="811" started-at="2021-08-18T18:51:47 IST" data-provider="Buttondata" finished-at="2021-08-18T18:51:47 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttonred]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="canvaTest(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@1cab0bfb]" name="canvaTest" duration-ms="819" started-at="2021-08-18T18:51:47 IST" data-provider="Buttondata" finished-at="2021-08-18T18:51:48 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[buttongreen]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- canvaTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_006_CanvasTest@1cab0bfb]" name="tearDown" is-config="true" duration-ms="688" started-at="2021-08-18T18:51:48 IST" finished-at="2021-08-18T18:51:49 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.expleo.heroku.testCases.TC_006_CanvasTest -->
       <class name="com.expleo.heroku.testCases.TC_005_ParaTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@7f416310]" name="init" is-config="true" duration-ms="4798" started-at="2021-08-18T18:51:34 IST" finished-at="2021-08-18T18:51:39 IST">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@7f416310]" name="init" is-config="true" duration-ms="5478" started-at="2021-08-18T22:46:29 IST" finished-at="2021-08-18T22:46:35 IST">
           <params>
             <param index="0">
               <value>
@@ -2110,11 +2110,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="paraCheck()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@7f416310]" name="paraCheck" duration-ms="36" started-at="2021-08-18T18:51:39 IST" finished-at="2021-08-18T18:51:39 IST">
+        <test-method status="PASS" signature="paraCheck()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@7f416310]" name="paraCheck" duration-ms="38" started-at="2021-08-18T22:46:35 IST" finished-at="2021-08-18T22:46:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- paraCheck -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@7f416310]" name="tearDown" is-config="true" duration-ms="617" started-at="2021-08-18T18:51:39 IST" finished-at="2021-08-18T18:51:40 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expleo.heroku.testCases.TC_005_ParaTest@7f416310]" name="tearDown" is-config="true" duration-ms="705" started-at="2021-08-18T22:46:35 IST" finished-at="2021-08-18T22:46:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

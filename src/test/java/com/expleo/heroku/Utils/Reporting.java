@@ -23,6 +23,10 @@ public class Reporting extends TestListenerAdapter {
 	public ExtentReports extent;
 	public ExtentTest logger;
 	
+	/*
+	 * Utility File common code for creating an extent report
+	 *  
+	 */
 		
 	public void onStart(ITestContext testContext)
 	{

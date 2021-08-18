@@ -12,26 +12,36 @@ import com.expleo.heroku.pageObjects.ChallengingDomPage;
 
 public class TC_003_TableTestDDT extends BaseClass{
 
+	/*
+	 * Requirement: Verify the static table data is not changing
+	 * 
+	 * Test Conditions: Get the value from each cell and validate it against the
+	 * data from the requirements
+	 *
+	 *getData Method = Will create a 2D array with the size of a table and store all values from Excel
+	 *
+	 * Author: Saai Kuppannagari
+	 */
+	
 	@Test(dataProvider="TableData")
-	public void TableDDT(String lorem, String ipsum, String dolor, String sit, String amet, String dic,String row,String column) {
+	public void TableDDT(String lorem, String ipsum, String dolor, String sit, String amet, String dic,String row,String column) throws IOException {
 		
 		String[] tableVal = {lorem,ipsum,dolor,sit,amet,dic};
 		
 		ChallengingDomPage cdp = new ChallengingDomPage(driver);
 		
-		
 		for(int i=1;i<=6;i++) {
 			
-			System.out.println(cdp.getTableText(row,i));
-			System.out.println(tableVal[i-1]);
+			logger.info("Cell value from Page: "+cdp.getTableText(row,i)+" Cell value from Test Data: "+tableVal[i-1]);
 
 			if( cdp.getTableText(row,i).equals(tableVal[i-1])) {
 				assertTrue(true);
+				logger.info("TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: "+i);
 				
-				logger.info("Test Passed validated: "+tableVal[i-1]);
 			}else {
+				captureScreen(driver,"TC_003_TableTestDDT");
 				assertTrue(false);
-				logger.info("Failed");
+				logger.info("TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: "+i);
 			}
 			
 		}

@@ -6,6 +6,13 @@ import java.util.Properties;
 
 public class ReadConfig {
 
+	/*
+	 * Utility File which will read the Config Properties file to read different
+	 * constants
+	 * 
+	 * Author: Saai Kuppannagari
+	 */
+	
 	Properties prop;
 	public ReadConfig() {
 		File file = new File("./Config/Config.properties");

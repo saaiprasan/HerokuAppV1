@@ -15,7 +15,7 @@
 			<class name="com.expleo.heroku.testCases.TC_003_TableTestDDT" /> 
 			<class name="com.expleo.heroku.testCases.TC_004_HeaderTest" />
 			<class name="com.expleo.heroku.testCases.TC_005_ParaTest" />	
-			<class name="com.expleo.heroku.testCases.TC_006_CanvasTest" />			
+			<class name="com.expleo.heroku.testCases.TC_006_CanvasTestDDT" />			
 			<class name="com.expleo.heroku.testCases.TC_007_EditClickTest" />		
 			<class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest" />	
 			<class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest" />																		
@@ -34,7 +34,7 @@
 			<class name="com.expleo.heroku.testCases.TC_003_TableTestDDT" /> 
 			<class name="com.expleo.heroku.testCases.TC_004_HeaderTest" />
 			<class name="com.expleo.heroku.testCases.TC_005_ParaTest" />	
-			<class name="com.expleo.heroku.testCases.TC_006_CanvasTest" />			
+			<class name="com.expleo.heroku.testCases.TC_006_CanvasTestDDT" />			
 			<class name="com.expleo.heroku.testCases.TC_007_EditClickTest" />		
 			<class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest" />	
 			<class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest" />																		
@@ -53,7 +53,7 @@
 			<class name="com.expleo.heroku.testCases.TC_003_TableTestDDT" /> 
 			<class name="com.expleo.heroku.testCases.TC_004_HeaderTest" />
 			<class name="com.expleo.heroku.testCases.TC_005_ParaTest" />	
-			<class name="com.expleo.heroku.testCases.TC_006_CanvasTest" />			
+			<class name="com.expleo.heroku.testCases.TC_006_CanvasTestDDT" />			
 			<class name="com.expleo.heroku.testCases.TC_007_EditClickTest" />		
 			<class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest" />	
 			<class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest" />																		

@@ -7,17 +7,17 @@ import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import com.expleo.heroku.pageObjects.ChallengingDomPage;
 
 
 public class TC_001_TitleTest extends BaseClass{
 
 	/*
-	 * Requirement: The title of the Web page must be The Internet 
 	 * 
+	 * Requirement: The title of the Web page must be "The Internet" 
 	 * 
-	 * Test: Get the value from the web page and assert True 
-	 * 
+	 * Test Conditions: Get the value from the web page and assert if the value Equals 
+	 *
+	 * Author: Saai Kuppannagari
 	 */
 	
 	@Test
@@ -27,12 +27,12 @@ public class TC_001_TitleTest extends BaseClass{
 
 		if(	driver.getTitle().equals("The Internet")) {
 			assertTrue(true);
-			logger.info("Title Check Test Passed");
+			logger.info("TC_001_TitleTest - Title Check Test - Passed");
 
 		}else {
-			captureScreen(driver,"Title Test");
+			captureScreen(driver,"TC_001_TitleTest");
 			assertTrue(false);
-			logger.info("Title Test Failed");
+			logger.info("TC_001_TitleTest - Title Check Test - Failed");
 
 		}
 		

@@ -12,26 +12,37 @@ import com.expleo.heroku.pageObjects.ChallengingDomPage;
 
 public class TC_002_ButtonTestDDT extends BaseClass {
 
+	/*
+	 * Requirement: On every click of the Buttons Blue, Red and Green the page should reload 
+	 * 
+	 * Test Conditions: Get the value from of ID from the Buttons Tag and verify if the Id is updated
+	 * for every button click using Data Driven Approach 
+	 *
+	 *getData Method = Will create a 2D array with the size of a table and store all values from Excel
+	 *
+	 * Author: Saai Kuppannagari
+	 */
+	
 	@Test(dataProvider="Buttondata")
 	public void buttonDDT(String buttonNum) throws IOException, InterruptedException {
 		ChallengingDomPage cdp = new ChallengingDomPage(driver);
 
 		String beforeBtnID = cdp.getButtonId(buttonNum);
-		logger.info("Button Click Step Done");
 
 		cdp.clickButton(buttonNum);
+		logger.info(buttonNum+" Click Done");
 		Thread.sleep(3000);
 		
 		String afterBtnId = cdp.getButtonId(buttonNum);
-		System.out.println(beforeBtnID+"   "+afterBtnId);
+		logger.info("Before ID: "+beforeBtnID+" After ID: "+afterBtnId);
 		if(!beforeBtnID.equals(afterBtnId)) {
 			assertTrue(true);
-			logger.info("Button Click Test Passed");
+			logger.info("TC_002_ButtonTestDDT - Button Click DDT Test - Passed");
 
 		}else {
 			captureScreen(driver,"TC_002_ButtonTestDDT");
 			assertTrue(false);
-			logger.info("Button Click Test Failed");
+			logger.info("TC_002_ButtonTestDDT - Button Click DDT Test - Failed");
 
 		}
 

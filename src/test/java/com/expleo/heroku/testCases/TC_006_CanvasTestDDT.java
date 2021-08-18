@@ -10,28 +10,39 @@ import org.testng.annotations.Test;
 import com.expleo.heroku.Utils.XLUtils;
 import com.expleo.heroku.pageObjects.ChallengingDomPage;
 
-public class TC_006_CanvasTest extends BaseClass{
+public class TC_006_CanvasTestDDT extends BaseClass{
 
+	/*
+	 * Requirement: Verify if the Canvas Text is being updated for every click/change in page
+	 * 
+	 * Test Conditions: Get the value from Canvas Area and validate it against previous value
+	 * after every button click
+	 * 
+	 * getData() = Will get button values from test data
+	 *
+	 * Author: Saai Kuppannagari
+	 */
+	
 	@Test(dataProvider="Buttondata")
-	public void canvaTest(String buttonNum) {
+	public void canvaTest(String buttonNum) throws IOException {
 		ChallengingDomPage cdp = new ChallengingDomPage(driver);
 		
 		String beforeCanText = cdp.getCanvasText();
 
 		cdp.clickButton(buttonNum);
-		logger.info("Button Click Step Done");
+		logger.info(buttonNum+ " Click Done");
 		String afterCanText = cdp.getCanvasText();
 		
 		logger.info("Before Text: "+beforeCanText+" After Text:   "+afterCanText);
 				
 		if(!beforeCanText.equals(afterCanText)) {
-			logger.info("Canvas Text Verification Passed: "+cdp.getCanvasText());
+			logger.info("TC_006_CanvasTestDDT - Canvas Answer Test - Passed: "+cdp.getCanvasText());
 			assertTrue(true);
-			
 		}else {
+			captureScreen(driver,"TC_006_CanvasTestDDT");
 			assertTrue(false);
+			logger.info("TC_006_CanvasTestDDT - Canvas Answer Test - Failed: "+cdp.getCanvasText());
 		}
-		
 	}
 	
 	@DataProvider(name="Buttondata")

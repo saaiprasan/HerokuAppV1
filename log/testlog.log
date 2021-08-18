@@ -1933,3 +1933,691 @@
 2021-08-18 20:45:38,170 - HerokuApp -INFO - Button Click Step Done
 2021-08-18 20:45:38,303 - HerokuApp -INFO - Before Text: Answer: 9905 After Text:   Answer: 73214
 2021-08-18 20:45:38,427 - HerokuApp -INFO - Canvas Text Verification Passed: Answer: 73214
+2021-08-18 22:40:59,570 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:03,116 - HerokuApp -INFO - URL Opened: https://the-internet.herokuapp.com/challenging_dom
+2021-08-18 22:41:03,123 - HerokuApp -INFO - TC_001_TitleTest - Title Check Test - Passed
+2021-08-18 22:41:05,044 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:09,978 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:41:13,036 - HerokuApp -INFO - Before ID: 322e4b50-e275-0139-cfca-16dbcb0157f8 After ID: 34546990-e275-0139-cfde-16dbcb0157f8
+2021-08-18 22:41:13,036 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:41:13,491 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:41:16,549 - HerokuApp -INFO - Before ID: 34546ca0-e275-0139-cfdf-16dbcb0157f8 After ID: 3672ace0-e275-0139-cff3-16dbcb0157f8
+2021-08-18 22:41:16,549 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:41:17,053 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:41:20,113 - HerokuApp -INFO - Before ID: 3672af40-e275-0139-cff4-16dbcb0157f8 After ID: 388e8b20-e275-0139-d008-16dbcb0157f8
+2021-08-18 22:41:20,114 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:41:22,055 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:27,562 - HerokuApp -INFO - Cell value from Page: Iuvaret0 Cell value from Test Data: Iuvaret0
+2021-08-18 22:41:27,582 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:27,622 - HerokuApp -INFO - Cell value from Page: Apeirian0 Cell value from Test Data: Apeirian0
+2021-08-18 22:41:27,646 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:27,683 - HerokuApp -INFO - Cell value from Page: Adipisci0 Cell value from Test Data: Adipisci0
+2021-08-18 22:41:27,707 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:27,732 - HerokuApp -INFO - Cell value from Page: Definiebas0 Cell value from Test Data: Definiebas0
+2021-08-18 22:41:27,755 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:27,798 - HerokuApp -INFO - Cell value from Page: Consequuntur0 Cell value from Test Data: Consequuntur0
+2021-08-18 22:41:27,819 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:27,864 - HerokuApp -INFO - Cell value from Page: Phaedrum0 Cell value from Test Data: Phaedrum0
+2021-08-18 22:41:27,884 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:27,921 - HerokuApp -INFO - Cell value from Page: Iuvaret1 Cell value from Test Data: Iuvaret1
+2021-08-18 22:41:27,943 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:27,970 - HerokuApp -INFO - Cell value from Page: Apeirian1 Cell value from Test Data: Apeirian1
+2021-08-18 22:41:27,991 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:28,033 - HerokuApp -INFO - Cell value from Page: Adipisci1 Cell value from Test Data: Adipisci1
+2021-08-18 22:41:28,051 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:28,082 - HerokuApp -INFO - Cell value from Page: Definiebas1 Cell value from Test Data: Definiebas1
+2021-08-18 22:41:28,119 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:28,159 - HerokuApp -INFO - Cell value from Page: Consequuntur1 Cell value from Test Data: Consequuntur1
+2021-08-18 22:41:28,191 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:28,232 - HerokuApp -INFO - Cell value from Page: Phaedrum1 Cell value from Test Data: Phaedrum1
+2021-08-18 22:41:28,255 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:28,294 - HerokuApp -INFO - Cell value from Page: Iuvaret2 Cell value from Test Data: Iuvaret2
+2021-08-18 22:41:28,315 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:28,356 - HerokuApp -INFO - Cell value from Page: Apeirian2 Cell value from Test Data: Apeirian2
+2021-08-18 22:41:28,377 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:28,405 - HerokuApp -INFO - Cell value from Page: Adipisci2 Cell value from Test Data: Adipisci2
+2021-08-18 22:41:28,425 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:28,451 - HerokuApp -INFO - Cell value from Page: Definiebas2 Cell value from Test Data: Definiebas2
+2021-08-18 22:41:28,474 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:28,513 - HerokuApp -INFO - Cell value from Page: Consequuntur2 Cell value from Test Data: Consequuntur2
+2021-08-18 22:41:28,535 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:28,574 - HerokuApp -INFO - Cell value from Page: Phaedrum2 Cell value from Test Data: Phaedrum2
+2021-08-18 22:41:28,597 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:28,638 - HerokuApp -INFO - Cell value from Page: Iuvaret3 Cell value from Test Data: Iuvaret3
+2021-08-18 22:41:28,659 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:28,700 - HerokuApp -INFO - Cell value from Page: Apeirian3 Cell value from Test Data: Apeirian3
+2021-08-18 22:41:28,722 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:28,762 - HerokuApp -INFO - Cell value from Page: Adipisci3 Cell value from Test Data: Adipisci3
+2021-08-18 22:41:28,783 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:28,817 - HerokuApp -INFO - Cell value from Page: Definiebas3 Cell value from Test Data: Definiebas3
+2021-08-18 22:41:28,843 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:28,886 - HerokuApp -INFO - Cell value from Page: Consequuntur3 Cell value from Test Data: Consequuntur3
+2021-08-18 22:41:28,905 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:28,930 - HerokuApp -INFO - Cell value from Page: Phaedrum3 Cell value from Test Data: Phaedrum3
+2021-08-18 22:41:28,954 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:28,994 - HerokuApp -INFO - Cell value from Page: Iuvaret4 Cell value from Test Data: Iuvaret4
+2021-08-18 22:41:29,017 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:29,058 - HerokuApp -INFO - Cell value from Page: Apeirian4 Cell value from Test Data: Apeirian4
+2021-08-18 22:41:29,083 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:29,119 - HerokuApp -INFO - Cell value from Page: Adipisci4 Cell value from Test Data: Adipisci4
+2021-08-18 22:41:29,143 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:29,183 - HerokuApp -INFO - Cell value from Page: Definiebas4 Cell value from Test Data: Definiebas4
+2021-08-18 22:41:29,204 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:29,245 - HerokuApp -INFO - Cell value from Page: Consequuntur4 Cell value from Test Data: Consequuntur4
+2021-08-18 22:41:29,266 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:29,302 - HerokuApp -INFO - Cell value from Page: Phaedrum4 Cell value from Test Data: Phaedrum4
+2021-08-18 22:41:29,328 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:29,370 - HerokuApp -INFO - Cell value from Page: Iuvaret5 Cell value from Test Data: Iuvaret5
+2021-08-18 22:41:29,392 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:29,438 - HerokuApp -INFO - Cell value from Page: Apeirian5 Cell value from Test Data: Apeirian5
+2021-08-18 22:41:29,472 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:29,511 - HerokuApp -INFO - Cell value from Page: Adipisci5 Cell value from Test Data: Adipisci5
+2021-08-18 22:41:29,537 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:29,589 - HerokuApp -INFO - Cell value from Page: Definiebas5 Cell value from Test Data: Definiebas5
+2021-08-18 22:41:29,615 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:29,658 - HerokuApp -INFO - Cell value from Page: Consequuntur5 Cell value from Test Data: Consequuntur5
+2021-08-18 22:41:29,676 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:29,715 - HerokuApp -INFO - Cell value from Page: Phaedrum5 Cell value from Test Data: Phaedrum5
+2021-08-18 22:41:29,737 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:29,778 - HerokuApp -INFO - Cell value from Page: Iuvaret6 Cell value from Test Data: Iuvaret6
+2021-08-18 22:41:29,804 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:29,842 - HerokuApp -INFO - Cell value from Page: Apeirian6 Cell value from Test Data: Apeirian6
+2021-08-18 22:41:29,864 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:29,888 - HerokuApp -INFO - Cell value from Page: Adipisci6 Cell value from Test Data: Adipisci6
+2021-08-18 22:41:29,914 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:29,950 - HerokuApp -INFO - Cell value from Page: Definiebas6 Cell value from Test Data: Definiebas6
+2021-08-18 22:41:29,980 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:30,018 - HerokuApp -INFO - Cell value from Page: Consequuntur6 Cell value from Test Data: Consequuntur6
+2021-08-18 22:41:30,041 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:30,080 - HerokuApp -INFO - Cell value from Page: Phaedrum6 Cell value from Test Data: Phaedrum6
+2021-08-18 22:41:30,107 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:30,145 - HerokuApp -INFO - Cell value from Page: Iuvaret7 Cell value from Test Data: Iuvaret7
+2021-08-18 22:41:30,168 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:30,208 - HerokuApp -INFO - Cell value from Page: Apeirian7 Cell value from Test Data: Apeirian7
+2021-08-18 22:41:30,233 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:30,270 - HerokuApp -INFO - Cell value from Page: Adipisci7 Cell value from Test Data: Adipisci7
+2021-08-18 22:41:30,292 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:30,332 - HerokuApp -INFO - Cell value from Page: Definiebas7 Cell value from Test Data: Definiebas7
+2021-08-18 22:41:30,352 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:30,380 - HerokuApp -INFO - Cell value from Page: Consequuntur7 Cell value from Test Data: Consequuntur7
+2021-08-18 22:41:30,399 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:30,425 - HerokuApp -INFO - Cell value from Page: Phaedrum7 Cell value from Test Data: Phaedrum7
+2021-08-18 22:41:30,451 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:30,494 - HerokuApp -INFO - Cell value from Page: Iuvaret8 Cell value from Test Data: Iuvaret8
+2021-08-18 22:41:30,514 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:30,554 - HerokuApp -INFO - Cell value from Page: Apeirian8 Cell value from Test Data: Apeirian8
+2021-08-18 22:41:30,577 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:30,602 - HerokuApp -INFO - Cell value from Page: Adipisci8 Cell value from Test Data: Adipisci8
+2021-08-18 22:41:30,623 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:30,652 - HerokuApp -INFO - Cell value from Page: Definiebas8 Cell value from Test Data: Definiebas8
+2021-08-18 22:41:30,671 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:30,693 - HerokuApp -INFO - Cell value from Page: Consequuntur8 Cell value from Test Data: Consequuntur8
+2021-08-18 22:41:30,719 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:30,742 - HerokuApp -INFO - Cell value from Page: Phaedrum8 Cell value from Test Data: Phaedrum8
+2021-08-18 22:41:30,767 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:30,811 - HerokuApp -INFO - Cell value from Page: Iuvaret9 Cell value from Test Data: Iuvaret9
+2021-08-18 22:41:30,831 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:41:30,870 - HerokuApp -INFO - Cell value from Page: Apeirian9 Cell value from Test Data: Apeirian9
+2021-08-18 22:41:30,891 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:41:30,914 - HerokuApp -INFO - Cell value from Page: Adipisci9 Cell value from Test Data: Adipisci9
+2021-08-18 22:41:30,936 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:41:30,958 - HerokuApp -INFO - Cell value from Page: Definiebas9 Cell value from Test Data: Definiebas9
+2021-08-18 22:41:30,983 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:41:31,003 - HerokuApp -INFO - Cell value from Page: Consequuntur9 Cell value from Test Data: Consequuntur9
+2021-08-18 22:41:31,030 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:41:31,053 - HerokuApp -INFO - Cell value from Page: Phaedrum9 Cell value from Test Data: Phaedrum9
+2021-08-18 22:41:31,078 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:41:33,025 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:37,298 - HerokuApp -INFO - TC_004_HeaderTest - Header text Test - Passed
+2021-08-18 22:41:39,167 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:43,101 - HerokuApp -INFO - TC_005_ParaTest - Paragraph Check Test - Passed
+2021-08-18 22:41:44,967 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:48,979 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:41:49,099 - HerokuApp -INFO - Before Text: Answer: 28221 After Text:   Answer: 36037
+2021-08-18 22:41:49,226 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 36037
+2021-08-18 22:41:49,794 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:41:49,925 - HerokuApp -INFO - Before Text: Answer: 36037 After Text:   Answer: 39578
+2021-08-18 22:41:50,049 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 39578
+2021-08-18 22:41:50,601 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:41:50,738 - HerokuApp -INFO - Before Text: Answer: 39578 After Text:   Answer: 89785
+2021-08-18 22:41:50,862 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 89785
+2021-08-18 22:41:52,744 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:41:57,428 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,494 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,565 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,627 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,690 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,754 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,813 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,883 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:57,950 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:58,018 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:41:59,864 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:42:04,591 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:04,655 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:04,720 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:04,792 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:04,860 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:04,948 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:05,007 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:05,074 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:05,132 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:05,194 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:42:07,083 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:42:15,776 - HerokuApp -INFO - TC_009_ElementalLinkTest - Element Link Click Test - Passed
+2021-08-18 22:42:33,866 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:42:38,794 - HerokuApp -INFO - URL Opened: https://the-internet.herokuapp.com/challenging_dom
+2021-08-18 22:42:38,803 - HerokuApp -INFO - TC_001_TitleTest - Title Check Test - Passed
+2021-08-18 22:42:40,666 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:42:45,552 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:42:48,630 - HerokuApp -INFO - Before ID: 6b2b4100-e275-0139-d113-16dbcb0157f8 After ID: 6d4ba5b0-e275-0139-d127-16dbcb0157f8
+2021-08-18 22:42:48,630 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:42:49,071 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:42:52,128 - HerokuApp -INFO - Before ID: 6d4bbce0-e275-0139-d128-16dbcb0157f8 After ID: 6f6de930-e275-0139-d179-16dbcb0157f8
+2021-08-18 22:42:52,129 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:42:52,631 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:42:55,701 - HerokuApp -INFO - Before ID: 6f6deb71-e275-0139-d17a-16dbcb0157f8 After ID: 7186c780-e275-0139-d18e-16dbcb0157f8
+2021-08-18 22:42:55,702 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:42:57,662 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:03,752 - HerokuApp -INFO - Cell value from Page: Iuvaret0 Cell value from Test Data: Iuvaret0
+2021-08-18 22:43:03,773 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:03,817 - HerokuApp -INFO - Cell value from Page: Apeirian0 Cell value from Test Data: Apeirian0
+2021-08-18 22:43:03,836 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:03,875 - HerokuApp -INFO - Cell value from Page: Adipisci0 Cell value from Test Data: Adipisci0
+2021-08-18 22:43:03,901 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:03,941 - HerokuApp -INFO - Cell value from Page: Definiebas0 Cell value from Test Data: Definiebas0
+2021-08-18 22:43:03,962 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:03,991 - HerokuApp -INFO - Cell value from Page: Consequuntur0 Cell value from Test Data: Consequuntur0
+2021-08-18 22:43:04,010 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:04,054 - HerokuApp -INFO - Cell value from Page: Phaedrum0 Cell value from Test Data: Phaedrum0
+2021-08-18 22:43:04,088 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:04,125 - HerokuApp -INFO - Cell value from Page: Iuvaret1 Cell value from Test Data: Iuvaret1
+2021-08-18 22:43:04,150 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:04,184 - HerokuApp -INFO - Cell value from Page: Apeirian1 Cell value from Test Data: Apeirian1
+2021-08-18 22:43:04,208 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:04,233 - HerokuApp -INFO - Cell value from Page: Adipisci1 Cell value from Test Data: Adipisci1
+2021-08-18 22:43:04,258 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:04,300 - HerokuApp -INFO - Cell value from Page: Definiebas1 Cell value from Test Data: Definiebas1
+2021-08-18 22:43:04,325 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:04,362 - HerokuApp -INFO - Cell value from Page: Consequuntur1 Cell value from Test Data: Consequuntur1
+2021-08-18 22:43:04,387 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:04,428 - HerokuApp -INFO - Cell value from Page: Phaedrum1 Cell value from Test Data: Phaedrum1
+2021-08-18 22:43:04,446 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:04,488 - HerokuApp -INFO - Cell value from Page: Iuvaret2 Cell value from Test Data: Iuvaret2
+2021-08-18 22:43:04,509 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:04,549 - HerokuApp -INFO - Cell value from Page: Apeirian2 Cell value from Test Data: Apeirian2
+2021-08-18 22:43:04,571 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:04,596 - HerokuApp -INFO - Cell value from Page: Adipisci2 Cell value from Test Data: Adipisci2
+2021-08-18 22:43:04,620 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:04,661 - HerokuApp -INFO - Cell value from Page: Definiebas2 Cell value from Test Data: Definiebas2
+2021-08-18 22:43:04,685 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:04,726 - HerokuApp -INFO - Cell value from Page: Consequuntur2 Cell value from Test Data: Consequuntur2
+2021-08-18 22:43:04,745 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:04,788 - HerokuApp -INFO - Cell value from Page: Phaedrum2 Cell value from Test Data: Phaedrum2
+2021-08-18 22:43:04,806 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:04,848 - HerokuApp -INFO - Cell value from Page: Iuvaret3 Cell value from Test Data: Iuvaret3
+2021-08-18 22:43:04,869 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:04,911 - HerokuApp -INFO - Cell value from Page: Apeirian3 Cell value from Test Data: Apeirian3
+2021-08-18 22:43:04,933 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:04,972 - HerokuApp -INFO - Cell value from Page: Adipisci3 Cell value from Test Data: Adipisci3
+2021-08-18 22:43:04,998 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:05,036 - HerokuApp -INFO - Cell value from Page: Definiebas3 Cell value from Test Data: Definiebas3
+2021-08-18 22:43:05,058 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:05,101 - HerokuApp -INFO - Cell value from Page: Consequuntur3 Cell value from Test Data: Consequuntur3
+2021-08-18 22:43:05,122 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:05,164 - HerokuApp -INFO - Cell value from Page: Phaedrum3 Cell value from Test Data: Phaedrum3
+2021-08-18 22:43:05,184 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:05,225 - HerokuApp -INFO - Cell value from Page: Iuvaret4 Cell value from Test Data: Iuvaret4
+2021-08-18 22:43:05,250 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:05,289 - HerokuApp -INFO - Cell value from Page: Apeirian4 Cell value from Test Data: Apeirian4
+2021-08-18 22:43:05,310 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:05,334 - HerokuApp -INFO - Cell value from Page: Adipisci4 Cell value from Test Data: Adipisci4
+2021-08-18 22:43:05,359 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:05,399 - HerokuApp -INFO - Cell value from Page: Definiebas4 Cell value from Test Data: Definiebas4
+2021-08-18 22:43:05,424 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:05,461 - HerokuApp -INFO - Cell value from Page: Consequuntur4 Cell value from Test Data: Consequuntur4
+2021-08-18 22:43:05,484 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:05,525 - HerokuApp -INFO - Cell value from Page: Phaedrum4 Cell value from Test Data: Phaedrum4
+2021-08-18 22:43:05,546 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:05,589 - HerokuApp -INFO - Cell value from Page: Iuvaret5 Cell value from Test Data: Iuvaret5
+2021-08-18 22:43:05,612 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:05,651 - HerokuApp -INFO - Cell value from Page: Apeirian5 Cell value from Test Data: Apeirian5
+2021-08-18 22:43:05,672 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:05,699 - HerokuApp -INFO - Cell value from Page: Adipisci5 Cell value from Test Data: Adipisci5
+2021-08-18 22:43:05,724 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:05,761 - HerokuApp -INFO - Cell value from Page: Definiebas5 Cell value from Test Data: Definiebas5
+2021-08-18 22:43:05,783 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:05,825 - HerokuApp -INFO - Cell value from Page: Consequuntur5 Cell value from Test Data: Consequuntur5
+2021-08-18 22:43:05,844 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:05,868 - HerokuApp -INFO - Cell value from Page: Phaedrum5 Cell value from Test Data: Phaedrum5
+2021-08-18 22:43:05,893 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:05,931 - HerokuApp -INFO - Cell value from Page: Iuvaret6 Cell value from Test Data: Iuvaret6
+2021-08-18 22:43:05,957 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:05,986 - HerokuApp -INFO - Cell value from Page: Apeirian6 Cell value from Test Data: Apeirian6
+2021-08-18 22:43:06,007 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:06,052 - HerokuApp -INFO - Cell value from Page: Adipisci6 Cell value from Test Data: Adipisci6
+2021-08-18 22:43:06,069 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:06,110 - HerokuApp -INFO - Cell value from Page: Definiebas6 Cell value from Test Data: Definiebas6
+2021-08-18 22:43:06,135 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:06,176 - HerokuApp -INFO - Cell value from Page: Consequuntur6 Cell value from Test Data: Consequuntur6
+2021-08-18 22:43:06,196 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:06,221 - HerokuApp -INFO - Cell value from Page: Phaedrum6 Cell value from Test Data: Phaedrum6
+2021-08-18 22:43:06,244 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:06,285 - HerokuApp -INFO - Cell value from Page: Iuvaret7 Cell value from Test Data: Iuvaret7
+2021-08-18 22:43:06,307 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:06,348 - HerokuApp -INFO - Cell value from Page: Apeirian7 Cell value from Test Data: Apeirian7
+2021-08-18 22:43:06,373 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:06,411 - HerokuApp -INFO - Cell value from Page: Adipisci7 Cell value from Test Data: Adipisci7
+2021-08-18 22:43:06,435 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:06,477 - HerokuApp -INFO - Cell value from Page: Definiebas7 Cell value from Test Data: Definiebas7
+2021-08-18 22:43:06,498 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:06,535 - HerokuApp -INFO - Cell value from Page: Consequuntur7 Cell value from Test Data: Consequuntur7
+2021-08-18 22:43:06,561 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:06,600 - HerokuApp -INFO - Cell value from Page: Phaedrum7 Cell value from Test Data: Phaedrum7
+2021-08-18 22:43:06,624 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:06,662 - HerokuApp -INFO - Cell value from Page: Iuvaret8 Cell value from Test Data: Iuvaret8
+2021-08-18 22:43:06,688 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:06,710 - HerokuApp -INFO - Cell value from Page: Apeirian8 Cell value from Test Data: Apeirian8
+2021-08-18 22:43:06,734 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:06,765 - HerokuApp -INFO - Cell value from Page: Adipisci8 Cell value from Test Data: Adipisci8
+2021-08-18 22:43:06,784 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:06,824 - HerokuApp -INFO - Cell value from Page: Definiebas8 Cell value from Test Data: Definiebas8
+2021-08-18 22:43:06,846 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:06,885 - HerokuApp -INFO - Cell value from Page: Consequuntur8 Cell value from Test Data: Consequuntur8
+2021-08-18 22:43:06,908 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:06,949 - HerokuApp -INFO - Cell value from Page: Phaedrum8 Cell value from Test Data: Phaedrum8
+2021-08-18 22:43:06,968 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:07,005 - HerokuApp -INFO - Cell value from Page: Iuvaret9 Cell value from Test Data: Iuvaret9
+2021-08-18 22:43:07,032 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:43:07,067 - HerokuApp -INFO - Cell value from Page: Apeirian9 Cell value from Test Data: Apeirian9
+2021-08-18 22:43:07,092 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:43:07,118 - HerokuApp -INFO - Cell value from Page: Adipisci9 Cell value from Test Data: Adipisci9
+2021-08-18 22:43:07,142 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:43:07,165 - HerokuApp -INFO - Cell value from Page: Definiebas9 Cell value from Test Data: Definiebas9
+2021-08-18 22:43:07,188 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:43:07,218 - HerokuApp -INFO - Cell value from Page: Consequuntur9 Cell value from Test Data: Consequuntur9
+2021-08-18 22:43:07,233 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:43:07,255 - HerokuApp -INFO - Cell value from Page: Phaedrum9 Cell value from Test Data: Phaedrum9
+2021-08-18 22:43:07,278 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:43:09,157 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:13,106 - HerokuApp -INFO - TC_004_HeaderTest - Header text Test - Passed
+2021-08-18 22:43:14,992 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:18,649 - HerokuApp -INFO - TC_005_ParaTest - Paragraph Check Test - Passed
+2021-08-18 22:43:20,498 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:24,800 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:43:24,919 - HerokuApp -INFO - Before Text: Answer: 39428 After Text:   Answer: 44974
+2021-08-18 22:43:25,043 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 44974
+2021-08-18 22:43:25,598 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:43:25,727 - HerokuApp -INFO - Before Text: Answer: 44974 After Text:   Answer: 20737
+2021-08-18 22:43:25,851 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 20737
+2021-08-18 22:43:26,399 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:43:26,521 - HerokuApp -INFO - Before Text: Answer: 20737 After Text:   Answer: 1931
+2021-08-18 22:43:26,646 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 1931
+2021-08-18 22:43:28,583 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:32,348 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,409 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,476 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,538 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,602 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,664 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,725 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,788 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,854 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:32,911 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:43:34,788 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:38,616 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:38,681 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:38,749 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:38,813 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:38,874 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:38,939 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:39,000 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:39,057 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:39,124 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:39,178 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:43:41,049 - HerokuApp -INFO - Loaded Chrome Broswer Driver
+2021-08-18 22:43:49,727 - HerokuApp -INFO - TC_009_ElementalLinkTest - Element Link Click Test - Passed
+2021-08-18 22:43:56,319 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:44:00,220 - HerokuApp -INFO - URL Opened: https://the-internet.herokuapp.com/challenging_dom
+2021-08-18 22:44:00,225 - HerokuApp -INFO - TC_001_TitleTest - Title Check Test - Passed
+2021-08-18 22:44:06,502 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:44:11,710 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:44:14,755 - HerokuApp -INFO - Before ID: 9e47faf0-e275-0139-d2cc-16dbcb0157f8 After ID: a0a313a0-e275-0139-d2e2-16dbcb0157f8
+2021-08-18 22:44:14,755 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:44:15,322 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:44:18,370 - HerokuApp -INFO - Before ID: a0a316e0-e275-0139-d2e3-16dbcb0157f8 After ID: a2c07070-e275-0139-d2f7-16dbcb0157f8
+2021-08-18 22:44:18,371 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:44:18,941 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:44:21,997 - HerokuApp -INFO - Before ID: a2c072c0-e275-0139-d2f8-16dbcb0157f8 After ID: a4e8fdd0-e275-0139-d30c-16dbcb0157f8
+2021-08-18 22:44:21,998 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:44:27,721 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:44:33,545 - HerokuApp -INFO - Cell value from Page: Iuvaret0 Cell value from Test Data: Iuvaret0
+2021-08-18 22:44:33,574 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:33,605 - HerokuApp -INFO - Cell value from Page: Apeirian0 Cell value from Test Data: Apeirian0
+2021-08-18 22:44:33,623 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:33,635 - HerokuApp -INFO - Cell value from Page: Adipisci0 Cell value from Test Data: Adipisci0
+2021-08-18 22:44:33,652 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:33,666 - HerokuApp -INFO - Cell value from Page: Definiebas0 Cell value from Test Data: Definiebas0
+2021-08-18 22:44:33,686 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:33,703 - HerokuApp -INFO - Cell value from Page: Consequuntur0 Cell value from Test Data: Consequuntur0
+2021-08-18 22:44:33,735 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:33,769 - HerokuApp -INFO - Cell value from Page: Phaedrum0 Cell value from Test Data: Phaedrum0
+2021-08-18 22:44:33,796 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:33,828 - HerokuApp -INFO - Cell value from Page: Iuvaret1 Cell value from Test Data: Iuvaret1
+2021-08-18 22:44:33,858 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:33,874 - HerokuApp -INFO - Cell value from Page: Apeirian1 Cell value from Test Data: Apeirian1
+2021-08-18 22:44:33,891 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:33,922 - HerokuApp -INFO - Cell value from Page: Adipisci1 Cell value from Test Data: Adipisci1
+2021-08-18 22:44:33,937 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:33,957 - HerokuApp -INFO - Cell value from Page: Definiebas1 Cell value from Test Data: Definiebas1
+2021-08-18 22:44:33,987 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:34,016 - HerokuApp -INFO - Cell value from Page: Consequuntur1 Cell value from Test Data: Consequuntur1
+2021-08-18 22:44:34,050 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:34,075 - HerokuApp -INFO - Cell value from Page: Phaedrum1 Cell value from Test Data: Phaedrum1
+2021-08-18 22:44:34,095 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:34,124 - HerokuApp -INFO - Cell value from Page: Iuvaret2 Cell value from Test Data: Iuvaret2
+2021-08-18 22:44:34,138 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:34,156 - HerokuApp -INFO - Cell value from Page: Apeirian2 Cell value from Test Data: Apeirian2
+2021-08-18 22:44:34,183 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:34,198 - HerokuApp -INFO - Cell value from Page: Adipisci2 Cell value from Test Data: Adipisci2
+2021-08-18 22:44:34,216 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:34,231 - HerokuApp -INFO - Cell value from Page: Definiebas2 Cell value from Test Data: Definiebas2
+2021-08-18 22:44:34,244 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:34,260 - HerokuApp -INFO - Cell value from Page: Consequuntur2 Cell value from Test Data: Consequuntur2
+2021-08-18 22:44:34,279 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:34,296 - HerokuApp -INFO - Cell value from Page: Phaedrum2 Cell value from Test Data: Phaedrum2
+2021-08-18 22:44:34,308 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:34,323 - HerokuApp -INFO - Cell value from Page: Iuvaret3 Cell value from Test Data: Iuvaret3
+2021-08-18 22:44:34,342 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:34,355 - HerokuApp -INFO - Cell value from Page: Apeirian3 Cell value from Test Data: Apeirian3
+2021-08-18 22:44:34,370 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:34,391 - HerokuApp -INFO - Cell value from Page: Adipisci3 Cell value from Test Data: Adipisci3
+2021-08-18 22:44:34,418 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:34,433 - HerokuApp -INFO - Cell value from Page: Definiebas3 Cell value from Test Data: Definiebas3
+2021-08-18 22:44:34,452 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:34,465 - HerokuApp -INFO - Cell value from Page: Consequuntur3 Cell value from Test Data: Consequuntur3
+2021-08-18 22:44:34,483 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:34,496 - HerokuApp -INFO - Cell value from Page: Phaedrum3 Cell value from Test Data: Phaedrum3
+2021-08-18 22:44:34,513 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:34,547 - HerokuApp -INFO - Cell value from Page: Iuvaret4 Cell value from Test Data: Iuvaret4
+2021-08-18 22:44:34,561 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:34,574 - HerokuApp -INFO - Cell value from Page: Apeirian4 Cell value from Test Data: Apeirian4
+2021-08-18 22:44:34,588 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:34,608 - HerokuApp -INFO - Cell value from Page: Adipisci4 Cell value from Test Data: Adipisci4
+2021-08-18 22:44:34,637 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:34,655 - HerokuApp -INFO - Cell value from Page: Definiebas4 Cell value from Test Data: Definiebas4
+2021-08-18 22:44:34,670 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:34,686 - HerokuApp -INFO - Cell value from Page: Consequuntur4 Cell value from Test Data: Consequuntur4
+2021-08-18 22:44:34,704 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:34,716 - HerokuApp -INFO - Cell value from Page: Phaedrum4 Cell value from Test Data: Phaedrum4
+2021-08-18 22:44:34,733 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:34,765 - HerokuApp -INFO - Cell value from Page: Iuvaret5 Cell value from Test Data: Iuvaret5
+2021-08-18 22:44:34,782 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:34,802 - HerokuApp -INFO - Cell value from Page: Apeirian5 Cell value from Test Data: Apeirian5
+2021-08-18 22:44:34,831 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:34,861 - HerokuApp -INFO - Cell value from Page: Adipisci5 Cell value from Test Data: Adipisci5
+2021-08-18 22:44:34,878 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:34,937 - HerokuApp -INFO - Cell value from Page: Definiebas5 Cell value from Test Data: Definiebas5
+2021-08-18 22:44:34,957 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:34,986 - HerokuApp -INFO - Cell value from Page: Consequuntur5 Cell value from Test Data: Consequuntur5
+2021-08-18 22:44:35,003 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:35,017 - HerokuApp -INFO - Cell value from Page: Phaedrum5 Cell value from Test Data: Phaedrum5
+2021-08-18 22:44:35,029 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:35,047 - HerokuApp -INFO - Cell value from Page: Iuvaret6 Cell value from Test Data: Iuvaret6
+2021-08-18 22:44:35,059 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:35,079 - HerokuApp -INFO - Cell value from Page: Apeirian6 Cell value from Test Data: Apeirian6
+2021-08-18 22:44:35,097 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:35,128 - HerokuApp -INFO - Cell value from Page: Adipisci6 Cell value from Test Data: Adipisci6
+2021-08-18 22:44:35,163 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:35,188 - HerokuApp -INFO - Cell value from Page: Definiebas6 Cell value from Test Data: Definiebas6
+2021-08-18 22:44:35,220 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:35,236 - HerokuApp -INFO - Cell value from Page: Consequuntur6 Cell value from Test Data: Consequuntur6
+2021-08-18 22:44:35,253 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:35,279 - HerokuApp -INFO - Cell value from Page: Phaedrum6 Cell value from Test Data: Phaedrum6
+2021-08-18 22:44:35,300 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:35,328 - HerokuApp -INFO - Cell value from Page: Iuvaret7 Cell value from Test Data: Iuvaret7
+2021-08-18 22:44:35,346 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:35,360 - HerokuApp -INFO - Cell value from Page: Apeirian7 Cell value from Test Data: Apeirian7
+2021-08-18 22:44:35,376 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:35,394 - HerokuApp -INFO - Cell value from Page: Adipisci7 Cell value from Test Data: Adipisci7
+2021-08-18 22:44:35,422 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:35,438 - HerokuApp -INFO - Cell value from Page: Definiebas7 Cell value from Test Data: Definiebas7
+2021-08-18 22:44:35,456 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:35,471 - HerokuApp -INFO - Cell value from Page: Consequuntur7 Cell value from Test Data: Consequuntur7
+2021-08-18 22:44:35,487 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:35,505 - HerokuApp -INFO - Cell value from Page: Phaedrum7 Cell value from Test Data: Phaedrum7
+2021-08-18 22:44:35,534 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:35,565 - HerokuApp -INFO - Cell value from Page: Iuvaret8 Cell value from Test Data: Iuvaret8
+2021-08-18 22:44:35,595 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:35,625 - HerokuApp -INFO - Cell value from Page: Apeirian8 Cell value from Test Data: Apeirian8
+2021-08-18 22:44:35,655 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:35,668 - HerokuApp -INFO - Cell value from Page: Adipisci8 Cell value from Test Data: Adipisci8
+2021-08-18 22:44:35,686 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:35,703 - HerokuApp -INFO - Cell value from Page: Definiebas8 Cell value from Test Data: Definiebas8
+2021-08-18 22:44:35,734 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:35,751 - HerokuApp -INFO - Cell value from Page: Consequuntur8 Cell value from Test Data: Consequuntur8
+2021-08-18 22:44:35,780 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:35,796 - HerokuApp -INFO - Cell value from Page: Phaedrum8 Cell value from Test Data: Phaedrum8
+2021-08-18 22:44:35,831 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:35,859 - HerokuApp -INFO - Cell value from Page: Iuvaret9 Cell value from Test Data: Iuvaret9
+2021-08-18 22:44:35,883 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:44:35,898 - HerokuApp -INFO - Cell value from Page: Apeirian9 Cell value from Test Data: Apeirian9
+2021-08-18 22:44:35,915 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:44:35,932 - HerokuApp -INFO - Cell value from Page: Adipisci9 Cell value from Test Data: Adipisci9
+2021-08-18 22:44:35,954 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:44:35,980 - HerokuApp -INFO - Cell value from Page: Definiebas9 Cell value from Test Data: Definiebas9
+2021-08-18 22:44:36,000 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:44:36,027 - HerokuApp -INFO - Cell value from Page: Consequuntur9 Cell value from Test Data: Consequuntur9
+2021-08-18 22:44:36,046 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:44:36,075 - HerokuApp -INFO - Cell value from Page: Phaedrum9 Cell value from Test Data: Phaedrum9
+2021-08-18 22:44:36,091 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:44:41,894 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:44:45,788 - HerokuApp -INFO - TC_004_HeaderTest - Header text Test - Passed
+2021-08-18 22:44:51,701 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:44:55,629 - HerokuApp -INFO - TC_005_ParaTest - Paragraph Check Test - Passed
+2021-08-18 22:45:01,796 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:45:06,418 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:45:06,535 - HerokuApp -INFO - Before Text: Answer: 14674 After Text:   Answer: 36594
+2021-08-18 22:45:06,678 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 36594
+2021-08-18 22:45:07,333 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:45:07,454 - HerokuApp -INFO - Before Text: Answer: 36594 After Text:   Answer: 55232
+2021-08-18 22:45:07,573 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 55232
+2021-08-18 22:45:08,202 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:45:08,336 - HerokuApp -INFO - Before Text: Answer: 55232 After Text:   Answer: 4633
+2021-08-18 22:45:08,495 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 4633
+2021-08-18 22:45:13,671 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:45:17,746 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:17,996 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:18,261 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:18,586 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:18,854 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:19,116 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:19,381 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:19,631 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:19,884 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:20,150 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:45:25,874 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:45:29,805 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:30,078 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:30,324 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:30,608 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:30,887 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:31,230 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:31,523 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:31,772 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:32,024 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:32,272 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:45:37,425 - HerokuApp -INFO - Loaded Firefox Broswer Driver
+2021-08-18 22:45:46,419 - HerokuApp -INFO - TC_009_ElementalLinkTest - Element Link Click Test - Passed
+2021-08-18 22:45:49,393 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:45:53,490 - HerokuApp -INFO - URL Opened: https://the-internet.herokuapp.com/challenging_dom
+2021-08-18 22:45:53,501 - HerokuApp -INFO - TC_001_TitleTest - Title Check Test - Passed
+2021-08-18 22:45:55,518 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:00,295 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:46:03,355 - HerokuApp -INFO - Before ID: df3f6580-e275-0139-d46d-16dbcb0157f8 After ID: e155f870-e275-0139-d481-16dbcb0157f8
+2021-08-18 22:46:03,355 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:46:03,830 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:46:06,873 - HerokuApp -INFO - Before ID: e155fb80-e275-0139-d482-16dbcb0157f8 After ID: e37ff6f0-e275-0139-d496-16dbcb0157f8
+2021-08-18 22:46:06,874 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:46:07,377 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:46:10,437 - HerokuApp -INFO - Before ID: e37ffd00-e275-0139-d497-16dbcb0157f8 After ID: e598c300-e275-0139-d4c2-16dbcb0157f8
+2021-08-18 22:46:10,437 - HerokuApp -INFO - TC_002_ButtonTestDDT - Button Click DDT Test - Passed
+2021-08-18 22:46:12,706 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:18,124 - HerokuApp -INFO - Cell value from Page: Iuvaret0 Cell value from Test Data: Iuvaret0
+2021-08-18 22:46:18,147 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:18,184 - HerokuApp -INFO - Cell value from Page: Apeirian0 Cell value from Test Data: Apeirian0
+2021-08-18 22:46:18,209 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:18,254 - HerokuApp -INFO - Cell value from Page: Adipisci0 Cell value from Test Data: Adipisci0
+2021-08-18 22:46:18,278 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:18,331 - HerokuApp -INFO - Cell value from Page: Definiebas0 Cell value from Test Data: Definiebas0
+2021-08-18 22:46:18,361 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:18,411 - HerokuApp -INFO - Cell value from Page: Consequuntur0 Cell value from Test Data: Consequuntur0
+2021-08-18 22:46:18,433 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:18,471 - HerokuApp -INFO - Cell value from Page: Phaedrum0 Cell value from Test Data: Phaedrum0
+2021-08-18 22:46:18,490 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:18,544 - HerokuApp -INFO - Cell value from Page: Iuvaret1 Cell value from Test Data: Iuvaret1
+2021-08-18 22:46:18,578 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:18,620 - HerokuApp -INFO - Cell value from Page: Apeirian1 Cell value from Test Data: Apeirian1
+2021-08-18 22:46:18,657 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:18,707 - HerokuApp -INFO - Cell value from Page: Adipisci1 Cell value from Test Data: Adipisci1
+2021-08-18 22:46:18,735 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:18,782 - HerokuApp -INFO - Cell value from Page: Definiebas1 Cell value from Test Data: Definiebas1
+2021-08-18 22:46:18,807 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:18,864 - HerokuApp -INFO - Cell value from Page: Consequuntur1 Cell value from Test Data: Consequuntur1
+2021-08-18 22:46:18,897 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:18,942 - HerokuApp -INFO - Cell value from Page: Phaedrum1 Cell value from Test Data: Phaedrum1
+2021-08-18 22:46:18,970 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:19,028 - HerokuApp -INFO - Cell value from Page: Iuvaret2 Cell value from Test Data: Iuvaret2
+2021-08-18 22:46:19,064 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:19,117 - HerokuApp -INFO - Cell value from Page: Apeirian2 Cell value from Test Data: Apeirian2
+2021-08-18 22:46:19,144 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:19,194 - HerokuApp -INFO - Cell value from Page: Adipisci2 Cell value from Test Data: Adipisci2
+2021-08-18 22:46:19,219 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:19,274 - HerokuApp -INFO - Cell value from Page: Definiebas2 Cell value from Test Data: Definiebas2
+2021-08-18 22:46:19,302 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:19,350 - HerokuApp -INFO - Cell value from Page: Consequuntur2 Cell value from Test Data: Consequuntur2
+2021-08-18 22:46:19,374 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:19,434 - HerokuApp -INFO - Cell value from Page: Phaedrum2 Cell value from Test Data: Phaedrum2
+2021-08-18 22:46:19,471 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:19,526 - HerokuApp -INFO - Cell value from Page: Iuvaret3 Cell value from Test Data: Iuvaret3
+2021-08-18 22:46:19,545 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:19,624 - HerokuApp -INFO - Cell value from Page: Apeirian3 Cell value from Test Data: Apeirian3
+2021-08-18 22:46:19,663 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:19,711 - HerokuApp -INFO - Cell value from Page: Adipisci3 Cell value from Test Data: Adipisci3
+2021-08-18 22:46:19,749 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:19,795 - HerokuApp -INFO - Cell value from Page: Definiebas3 Cell value from Test Data: Definiebas3
+2021-08-18 22:46:19,824 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:19,873 - HerokuApp -INFO - Cell value from Page: Consequuntur3 Cell value from Test Data: Consequuntur3
+2021-08-18 22:46:19,901 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:19,940 - HerokuApp -INFO - Cell value from Page: Phaedrum3 Cell value from Test Data: Phaedrum3
+2021-08-18 22:46:19,961 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:19,998 - HerokuApp -INFO - Cell value from Page: Iuvaret4 Cell value from Test Data: Iuvaret4
+2021-08-18 22:46:20,033 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:20,081 - HerokuApp -INFO - Cell value from Page: Apeirian4 Cell value from Test Data: Apeirian4
+2021-08-18 22:46:20,114 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:20,223 - HerokuApp -INFO - Cell value from Page: Adipisci4 Cell value from Test Data: Adipisci4
+2021-08-18 22:46:20,259 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:20,318 - HerokuApp -INFO - Cell value from Page: Definiebas4 Cell value from Test Data: Definiebas4
+2021-08-18 22:46:20,340 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:20,384 - HerokuApp -INFO - Cell value from Page: Consequuntur4 Cell value from Test Data: Consequuntur4
+2021-08-18 22:46:20,420 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:20,471 - HerokuApp -INFO - Cell value from Page: Phaedrum4 Cell value from Test Data: Phaedrum4
+2021-08-18 22:46:20,504 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:20,547 - HerokuApp -INFO - Cell value from Page: Iuvaret5 Cell value from Test Data: Iuvaret5
+2021-08-18 22:46:20,583 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:20,615 - HerokuApp -INFO - Cell value from Page: Apeirian5 Cell value from Test Data: Apeirian5
+2021-08-18 22:46:20,635 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:20,665 - HerokuApp -INFO - Cell value from Page: Adipisci5 Cell value from Test Data: Adipisci5
+2021-08-18 22:46:20,685 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:20,725 - HerokuApp -INFO - Cell value from Page: Definiebas5 Cell value from Test Data: Definiebas5
+2021-08-18 22:46:20,753 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:20,799 - HerokuApp -INFO - Cell value from Page: Consequuntur5 Cell value from Test Data: Consequuntur5
+2021-08-18 22:46:20,824 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:20,867 - HerokuApp -INFO - Cell value from Page: Phaedrum5 Cell value from Test Data: Phaedrum5
+2021-08-18 22:46:20,897 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:20,939 - HerokuApp -INFO - Cell value from Page: Iuvaret6 Cell value from Test Data: Iuvaret6
+2021-08-18 22:46:20,960 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:20,998 - HerokuApp -INFO - Cell value from Page: Apeirian6 Cell value from Test Data: Apeirian6
+2021-08-18 22:46:21,019 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:21,057 - HerokuApp -INFO - Cell value from Page: Adipisci6 Cell value from Test Data: Adipisci6
+2021-08-18 22:46:21,081 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:21,125 - HerokuApp -INFO - Cell value from Page: Definiebas6 Cell value from Test Data: Definiebas6
+2021-08-18 22:46:21,143 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:21,202 - HerokuApp -INFO - Cell value from Page: Consequuntur6 Cell value from Test Data: Consequuntur6
+2021-08-18 22:46:21,231 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:21,285 - HerokuApp -INFO - Cell value from Page: Phaedrum6 Cell value from Test Data: Phaedrum6
+2021-08-18 22:46:21,315 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:21,360 - HerokuApp -INFO - Cell value from Page: Iuvaret7 Cell value from Test Data: Iuvaret7
+2021-08-18 22:46:21,405 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:21,469 - HerokuApp -INFO - Cell value from Page: Apeirian7 Cell value from Test Data: Apeirian7
+2021-08-18 22:46:21,499 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:21,541 - HerokuApp -INFO - Cell value from Page: Adipisci7 Cell value from Test Data: Adipisci7
+2021-08-18 22:46:21,575 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:21,623 - HerokuApp -INFO - Cell value from Page: Definiebas7 Cell value from Test Data: Definiebas7
+2021-08-18 22:46:21,658 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:21,702 - HerokuApp -INFO - Cell value from Page: Consequuntur7 Cell value from Test Data: Consequuntur7
+2021-08-18 22:46:21,733 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:21,783 - HerokuApp -INFO - Cell value from Page: Phaedrum7 Cell value from Test Data: Phaedrum7
+2021-08-18 22:46:21,821 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:21,880 - HerokuApp -INFO - Cell value from Page: Iuvaret8 Cell value from Test Data: Iuvaret8
+2021-08-18 22:46:21,905 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:21,949 - HerokuApp -INFO - Cell value from Page: Apeirian8 Cell value from Test Data: Apeirian8
+2021-08-18 22:46:21,980 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:22,015 - HerokuApp -INFO - Cell value from Page: Adipisci8 Cell value from Test Data: Adipisci8
+2021-08-18 22:46:22,040 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:22,085 - HerokuApp -INFO - Cell value from Page: Definiebas8 Cell value from Test Data: Definiebas8
+2021-08-18 22:46:22,116 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:22,160 - HerokuApp -INFO - Cell value from Page: Consequuntur8 Cell value from Test Data: Consequuntur8
+2021-08-18 22:46:22,176 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:22,215 - HerokuApp -INFO - Cell value from Page: Phaedrum8 Cell value from Test Data: Phaedrum8
+2021-08-18 22:46:22,239 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:22,278 - HerokuApp -INFO - Cell value from Page: Iuvaret9 Cell value from Test Data: Iuvaret9
+2021-08-18 22:46:22,301 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 1
+2021-08-18 22:46:22,344 - HerokuApp -INFO - Cell value from Page: Apeirian9 Cell value from Test Data: Apeirian9
+2021-08-18 22:46:22,362 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 2
+2021-08-18 22:46:22,404 - HerokuApp -INFO - Cell value from Page: Adipisci9 Cell value from Test Data: Adipisci9
+2021-08-18 22:46:22,423 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 3
+2021-08-18 22:46:22,463 - HerokuApp -INFO - Cell value from Page: Definiebas9 Cell value from Test Data: Definiebas9
+2021-08-18 22:46:22,485 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 4
+2021-08-18 22:46:22,511 - HerokuApp -INFO - Cell value from Page: Consequuntur9 Cell value from Test Data: Consequuntur9
+2021-08-18 22:46:22,534 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 5
+2021-08-18 22:46:22,561 - HerokuApp -INFO - Cell value from Page: Phaedrum9 Cell value from Test Data: Phaedrum9
+2021-08-18 22:46:22,581 - HerokuApp -INFO - TC_003_TableTestDDT - Table Data DDT Check Test - Passed for Iteration: 6
+2021-08-18 22:46:24,657 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:28,824 - HerokuApp -INFO - TC_004_HeaderTest - Header text Test - Passed
+2021-08-18 22:46:30,839 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:35,084 - HerokuApp -INFO - TC_005_ParaTest - Paragraph Check Test - Passed
+2021-08-18 22:46:37,067 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:41,349 - HerokuApp -INFO - buttonblue Click Done
+2021-08-18 22:46:41,476 - HerokuApp -INFO - Before Text: Answer: 45338 After Text:   Answer: 20719
+2021-08-18 22:46:41,600 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 20719
+2021-08-18 22:46:42,219 - HerokuApp -INFO - buttonred Click Done
+2021-08-18 22:46:42,358 - HerokuApp -INFO - Before Text: Answer: 20719 After Text:   Answer: 72097
+2021-08-18 22:46:42,479 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 72097
+2021-08-18 22:46:43,128 - HerokuApp -INFO - buttongreen Click Done
+2021-08-18 22:46:43,254 - HerokuApp -INFO - Before Text: Answer: 72097 After Text:   Answer: 90669
+2021-08-18 22:46:43,380 - HerokuApp -INFO - TC_006_CanvasTestDDT - Canvas Answer Test - Passed: Answer: 90669
+2021-08-18 22:46:45,431 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:49,645 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:49,758 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:49,868 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:49,983 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:50,104 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:50,216 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:50,330 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:50,444 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:50,552 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:50,667 - HerokuApp -INFO - TC_007_EditClickTest - Edit Click Test - Passed
+2021-08-18 22:46:52,747 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:46:56,773 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:56,888 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:56,994 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,108 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,218 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,326 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,437 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,560 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,674 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:57,795 - HerokuApp -INFO - TC_007_EditClickTest - Delete Click Test - Passed
+2021-08-18 22:46:59,800 - HerokuApp -INFO - Loaded Edge Broswer Driver
+2021-08-18 22:47:09,854 - HerokuApp -INFO - TC_009_ElementalLinkTest - Element Link Click Test - Passed

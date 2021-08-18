@@ -11,6 +11,14 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class XLUtils {
+	
+	/*
+	 * Utility File which will read the excel data to get individual
+	 * row and column count and gets relevant cell value
+	 * 
+	 */
+	
+	
 	public static FileInputStream fi;
 	public static FileOutputStream fo;
 	public static XSSFWorkbook wb;

@@ -22,6 +22,12 @@ import com.expleo.heroku.Utils.ReadConfig;
 
 public class BaseClass {
 	
+	/*
+	 * BaseClass will be extended by all the Test cases in the Framework
+	 * Init and Teardown will be run as part of every Test using beforeclass and after class
+	 * CaptureScreenshot = Will be used to capture screenshots for any failed Test cases and display in the reports
+	 */
+	
 	ReadConfig readConfig = new ReadConfig();
 	public String baseURL = readConfig.getAppUrl();	
 	public static WebDriver driver;
@@ -37,12 +43,15 @@ public class BaseClass {
 		if(browser.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", readConfig.getChromePath());
 			driver = new ChromeDriver();
+			logger.info("Loaded Chrome Broswer Driver");
 		} else if(browser.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", readConfig.getFirefoxPath());
 			driver = new FirefoxDriver();
+			logger.info("Loaded Firefox Broswer Driver");
 		} else if(browser.equals("edge")) {
 			System.setProperty("webdriver.edge.driver", readConfig.getEdgePath());
 			driver = new EdgeDriver();
+			logger.info("Loaded Edge Broswer Driver");
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(baseURL);

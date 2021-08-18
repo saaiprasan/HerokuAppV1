@@ -3,13 +3,12 @@ package com.expleo.heroku.pageObjects;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
+
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -19,8 +18,7 @@ public class ChallengingDomPage {
 	public String buttonText;
 	public ChallengingDomPage(WebDriver driver_ref) {
 		driver = driver_ref;
-		PageFactory.initElements(driver_ref, this);
-		
+		PageFactory.initElements(driver_ref, this);	
 	}
 	
 	
@@ -35,7 +33,22 @@ public class ChallengingDomPage {
 
 	
 	/*
-	 * Setting Action Methods
+	 * 
+	 * Different Generic Action Methods Used in the project
+	 * 
+	 * Author: Saai Kuppannagari
+	 * 
+	 * 
+	 * Get Button ID = Used to check before ID vs After ID when the button is clicked
+	 * Click Button = Used to click Relevant Button Blue, Red or Green
+	 * Click Link = Used to click the Footer link which opens a new Window/Tab
+	 * Get Button Text = Used to get the button Text
+	 * Get edit = Link to Edit based on Row and Column Count in the static table
+	 * Get delete = Link to delete based on Row and Column Count in the static table
+	 * Get Heading = Header Text 
+	 * Get Para = Paragraph under the Header
+	 * Get Canvas Text = The Canvas near the footer is utilizing a Script which generates a random number for every refresh or click of a button
+	 * Get Table Text = Will retrieve cell value based on row and column values passed
 	 */
 	
 	public String getButtonId(String buttonNum) {
