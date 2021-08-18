@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "SingleTests">
+
+	<listeners>
+		<listener class-name="com.expleo.heroku.Utils.Reporting" />
+	</listeners>
+	
+	<test name = "Chrome Test">
+		<parameter name = "browser" value="chrome" />
+		<classes>
+			<class name ="com.expleo.heroku.testCases.TC_001_TitleTest" />
+			<class name="com.expleo.heroku.testCases.TC_002_ButtonTestDDT" /> 
+			<class name="com.expleo.heroku.testCases.TC_003_TableTestDDT" /> 
+			<class name="com.expleo.heroku.testCases.TC_004_HeaderTest" />
+			<class name="com.expleo.heroku.testCases.TC_005_ParaTest" />	
+			<class name="com.expleo.heroku.testCases.TC_006_CanvasTest" />			
+			<class name="com.expleo.heroku.testCases.TC_007_EditClickTest" />		
+			<class name="com.expleo.heroku.testCases.TC_008_DeleteClickTest" />	
+			<class name="com.expleo.heroku.testCases.TC_009_ElementalLinkTest" />																		
+		</classes>
+	</test>
+	
+</suite>

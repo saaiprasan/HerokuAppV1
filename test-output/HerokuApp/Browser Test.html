@@ -1,0 +1,189 @@
+<html>
+<head>
+<title>TestNG:  Browser Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Browser Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>22/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Aug 18 18:01:23 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>78 seconds (78091 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret9, Apeirian9, Adipisci9, Definiebas9, Consequuntur9, Phaedrum9, 10, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_002_ButtonTestDDT.buttonDDT()'><b>buttonDDT</b><br>Test class: com.expleo.heroku.testCases.TC_002_ButtonTestDDT<br>Parameters: buttongreen</td>
+<td></td>
+<td>3</td>
+<td>com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret5, Apeirian5, Adipisci5, Definiebas5, Consequuntur5, Phaedrum5, 6, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_006_CanvasTest.canvaTest()'><b>canvaTest</b><br>Test class: com.expleo.heroku.testCases.TC_006_CanvasTest<br>Parameters: buttonblue</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret0, Apeirian0, Adipisci0, Definiebas0, Consequuntur0, Phaedrum0, 1, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_002_ButtonTestDDT.buttonDDT()'><b>buttonDDT</b><br>Test class: com.expleo.heroku.testCases.TC_002_ButtonTestDDT<br>Parameters: buttonblue</td>
+<td></td>
+<td>4</td>
+<td>com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_008_DeleteClickTest.deleteTest()'><b>deleteTest</b><br>Test class: com.expleo.heroku.testCases.TC_008_DeleteClickTest</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_008_DeleteClickTest@fe18270</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_009_ElementalLinkTest.elementLinkTest()'><b>elementLinkTest</b><br>Test class: com.expleo.heroku.testCases.TC_009_ElementalLinkTest</td>
+<td></td>
+<td>5</td>
+<td>com.expleo.heroku.testCases.TC_009_ElementalLinkTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_004_HeaderTest.headTest()'><b>headTest</b><br>Test class: com.expleo.heroku.testCases.TC_004_HeaderTest</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_004_HeaderTest@7a36aefa</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_007_EditClickTest.editTest()'><b>editTest</b><br>Test class: com.expleo.heroku.testCases.TC_007_EditClickTest</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_007_EditClickTest@5fdba6f9</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_001_TitleTest.titleTest()'><b>titleTest</b><br>Test class: com.expleo.heroku.testCases.TC_001_TitleTest</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_001_TitleTest@27d415d9</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret8, Apeirian8, Adipisci8, Definiebas8, Consequuntur8, Phaedrum8, 9, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret1, Apeirian1, Adipisci1, Definiebas1, Consequuntur1, Phaedrum1, 2, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_002_ButtonTestDDT.buttonDDT()'><b>buttonDDT</b><br>Test class: com.expleo.heroku.testCases.TC_002_ButtonTestDDT<br>Parameters: buttonred</td>
+<td></td>
+<td>3</td>
+<td>com.expleo.heroku.testCases.TC_002_ButtonTestDDT@2fd66ad3</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret2, Apeirian2, Adipisci2, Definiebas2, Consequuntur2, Phaedrum2, 3, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_005_ParaTest.paraCheck()'><b>paraCheck</b><br>Test class: com.expleo.heroku.testCases.TC_005_ParaTest</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_005_ParaTest@17211155</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_006_CanvasTest.canvaTest()'><b>canvaTest</b><br>Test class: com.expleo.heroku.testCases.TC_006_CanvasTest<br>Parameters: buttonred</td>
+<td></td>
+<td>1</td>
+<td>com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret3, Apeirian3, Adipisci3, Definiebas3, Consequuntur3, Phaedrum3, 4, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret4, Apeirian4, Adipisci4, Definiebas4, Consequuntur4, Phaedrum4, 5, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret6, Apeirian6, Adipisci6, Definiebas6, Consequuntur6, Phaedrum6, 7, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_006_CanvasTest.canvaTest()'><b>canvaTest</b><br>Test class: com.expleo.heroku.testCases.TC_006_CanvasTest<br>Parameters: buttongreen</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_006_CanvasTest@b3d7190</td></tr>
+<tr>
+<td title='com.expleo.heroku.testCases.TC_003_TableTestDDT.TableDDT()'><b>TableDDT</b><br>Test class: com.expleo.heroku.testCases.TC_003_TableTestDDT<br>Parameters: Iuvaret7, Apeirian7, Adipisci7, Definiebas7, Consequuntur7, Phaedrum7, 8, 1</td>
+<td></td>
+<td>0</td>
+<td>com.expleo.heroku.testCases.TC_003_TableTestDDT@5d11346a</td></tr>
+</table><p>
+</body>
+</html>

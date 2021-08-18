@@ -1,0 +1,14 @@
+com\expleo\heroku\testCases\TC_004_HeaderTest.class
+com\expleo\heroku\Utils\ReadConfig.class
+com\expleo\heroku\testCases\BaseClass.class
+com\expleo\heroku\testCases\TC_003_TableTestDDT.class
+com\expleo\heroku\testCases\TC_005_ParaTest.class
+com\expleo\heroku\Utils\XLUtils.class
+com\expleo\heroku\testCases\TC_006_CanvasTest.class
+com\expleo\heroku\testCases\TC_008_DeleteClickTest.class
+com\expleo\heroku\Utils\Reporting.class
+com\expleo\heroku\testCases\TC_007_EditClickTest.class
+com\expleo\heroku\pageObjects\ChallengingDomPage.class
+com\expleo\heroku\testCases\TC_001_TitleTest.class
+com\expleo\heroku\testCases\TC_002_ButtonTestDDT.class
+com\expleo\heroku\testCases\TC_009_ElementalLinkTest.class
